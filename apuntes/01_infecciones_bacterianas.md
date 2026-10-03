@@ -1,16 +1,23 @@
 # Infecciones bacterianas del sistema nervioso
 
-[Índice general](../README.md) · [Fuentes y dudas del original](../FUENTES_Y_COBERTURA.md)
+[Actuación inicial](00_actuacion_inicial.md) · [Índice general](../README.md) · [Fuentes y dudas del original](../FUENTES_Y_COBERTURA.md)
 
 **Fuente:** capítulo 40, Juan Carlos García-Moncó Carra, Patricia Rodrigo Armenteros y Markel Erburu Iriarte. Páginas impresas 619–631; PDF 1–13. Síntesis del manual, sin actualización externa.
+
+**Cómo se organiza:** INFURG-SEMES 2012 aporta la secuencia de actuación —reconocer, estudiar, tratar y decidir el destino asistencial—; SEN 2025 es la fuente clínica prioritaria. Las referencias «Fuente: cap. …» corresponden a SEN. Las aportaciones organizativas de INFURG se identifican aparte y no resuelven las dudas internas de SEN.
+
+*Arquitectura: INFURG, cap. 18, pp. 147–156 (PDF 3–12), incluido el algoritmo 1; cap. 23, pp. 189–191 (PDF 45–47).*
 
 ## Contenido
 
 - [Meningitis aguda](#meningitis-aguda)
 - [Diagnóstico y LCR](#diagnóstico-y-lcr)
 - [Tratamiento de la meningitis aguda](#tratamiento-de-la-meningitis-aguda)
+- [Particularidades de la meningitis nosocomial](#particularidades-de-la-meningitis-nosocomial)
 - [Complicaciones y pronóstico](#complicaciones-y-pronóstico)
+- [Destino asistencial y vigilancia](#destino-asistencial-y-vigilancia)
 - [Profilaxis y vacunación](#profilaxis-y-vacunación)
+- [Etiología orientada por contexto](#etiología-orientada-por-contexto)
 - [Meningitis crónicas](#meningitis-crónicas)
 - [Tuberculosis](#tuberculosis)
 - [Neurobrucelosis](#neurobrucelosis)
@@ -30,28 +37,6 @@ La ausencia de fiebre o meningismo no la excluye, especialmente en ancianos, inm
 > **Duda del original B01:** el texto atribuye un 95 % a tener «dos de ellos» inmediatamente después de enumerar una tríada, mientras sus puntos clave describen cuatro manifestaciones. No se transforma esa cifra en una regla para excluir meningitis.
 
 *Fuente: cap. 40, pp. 619, 621–622 y 630 (PDF 1, 3–4 y 12).*
-
-### Etiología orientada por contexto
-
-Neumococo y meningococo reúnen, según el capítulo, aproximadamente el **80 % de las meningitis bacterianas del adulto**. Listeria gana importancia con edad avanzada e inmunodepresión; el estreptococo del grupo B destaca en neonatos y también en adultos mayores con enfermedades debilitantes. La vacunación ha reducido la enfermedad por *H. influenzae*.
-
-| Situación | Patógenos que destaca el manual |
-| --- | --- |
-| Recién nacido | Enterobacterias, *S. agalactiae*, *L. monocytogenes* |
-| Adulto joven | *N. meningitidis*, *S. pneumoniae* |
-| Mayores de 50 años, inmunodepresión o etilismo | Añadir la posibilidad de Listeria y bacilos gramnegativos |
-| Neurocirugía, herida penetrante, drenaje o derivación | *S. aureus*, *S. epidermidis*, bacilos gramnegativos, incluidos *Pseudomonas*, y *Propionibacterium acnes* —denominación del original— |
-| Cirugía ORL, fractura de base de cráneo o implante coclear | Neumococo, *H. influenzae*, estreptococos del grupo A |
-| Defecto de inmunidad celular, corticoides, trasplante, cirrosis o neoplasia | Listeria |
-| Defecto de inmunidad humoral | *H. influenzae* |
-| Asplenia | Neumococo, meningococo, *H. influenzae* |
-| Enfermedad médica avanzada o estrongiloidiasis diseminada | Bacilos gramnegativos |
-
-La secuencia fisiopatológica habitual es colonización de mucosas → bacteriemia → supervivencia intravascular → invasión meníngea. La inflamación explica edema, trombosis e hidrocefalia. También existe inoculación directa o extensión desde un foco contiguo.
-
-Pistas clínicas: rombencefalitis, ataxia y pares craneales orientan a Listeria; púrpura a meningococo; laberintitis con hipoacusia y complicaciones vasculares a neumococo. Son orientaciones, no identificaciones microbiológicas.
-
-*Fuente: cap. 40, pp. 619–621, tablas 1–2 (PDF 1–3).*
 
 ## Diagnóstico y LCR
 
@@ -128,6 +113,22 @@ Tratar shock, coagulopatía y alteraciones metabólicas. Ante hipertensión intr
 
 *Fuente: cap. 40, p. 623, tabla 3 (PDF 5).*
 
+### Duración y dexametasona
+
+| Situación | Duración recogida |
+| --- | --- |
+| Meningitis bacteriana, en general | 10–14 días |
+| Meningococo | Pueden bastar 7 días |
+| Neumococo | 14 días |
+| Listeria o gramnegativos | Al menos 3 semanas |
+| Nosocomial | 3–4 semanas en la mayoría de los casos descritos |
+
+Dexametasona en adultos: **10 mg antes o junto con el primer antibiótico, después 10 mg/6 h durante 4 días**; los puntos clave especifican vía IV. Algunos autores citados admiten una ventana de hasta **4 h** desde el primer antibiótico. El beneficio se destaca especialmente en meningitis neumocócica grave.
+
+El texto recomienda suspender si no se confirma neumococo ni *H. influenzae*, pero también recoge autores que la mantienen con independencia de la etiología. Se conserva esta diferencia como tal.
+
+*Fuente: cap. 40, pp. 624–625 y 630 (PDF 6–7 y 12).*
+
 ### Dosis de la tabla 4
 
 **La columna original mezcla dosis totales diarias y dosis por administración.** Se distinguen aquí explícitamente sin convertirlas a otra pauta. La tabla no especifica la vía para cada fila ni ajustes por función renal; no se añaden. Son las cifras del manual, no una validación farmacoterapéutica externa.
@@ -153,7 +154,11 @@ Penetración en LCR con inflamación meníngea, según la misma tabla: gentamici
 
 *Fuente: cap. 40, p. 624, tabla 4 (PDF 6).*
 
-### Particularidades de la meningitis nosocomial
+## Particularidades de la meningitis nosocomial
+
+Esta es la entrada para meningitis relacionada con neurocirugía, traumatismo o **derivación de LCR**. La cobertura, retirada del dispositivo y condiciones de recambio que siguen proceden de SEN. La guía INFURG sitúa la sospecha de infección de una derivación en un circuito hospitalario con disponibilidad de Neurocirugía y UCI.
+
+*Organización asistencial: INFURG, cap. 23, pp. 190–191 (PDF 46–47).*
 
 | Predisponente | Dosis por administración de la tabla 5 |
 | --- | --- |
@@ -166,22 +171,6 @@ Retirar el catéter ventricular infectado; el manual desaconseja implantar uno n
 
 *Fuente: cap. 40, pp. 620 y 624–625, tablas 1 y 5 (PDF 2 y 6–7).*
 
-### Duración y dexametasona
-
-| Situación | Duración recogida |
-| --- | --- |
-| Meningitis bacteriana, en general | 10–14 días |
-| Meningococo | Pueden bastar 7 días |
-| Neumococo | 14 días |
-| Listeria o gramnegativos | Al menos 3 semanas |
-| Nosocomial | 3–4 semanas en la mayoría de los casos descritos |
-
-Dexametasona en adultos: **10 mg antes o junto con el primer antibiótico, después 10 mg/6 h durante 4 días**; los puntos clave especifican vía IV. Algunos autores citados admiten una ventana de hasta **4 h** desde el primer antibiótico. El beneficio se destaca especialmente en meningitis neumocócica grave.
-
-El texto recomienda suspender si no se confirma neumococo ni *H. influenzae*, pero también recoge autores que la mantienen con independencia de la etiología. Se conserva esta diferencia como tal.
-
-*Fuente: cap. 40, pp. 624–625 y 630 (PDF 6–7 y 12).*
-
 ## Complicaciones y pronóstico
 
 Vigilar hiponatremia/SIADH, crisis y estatus, infartos por arteritis, hidrocefalia, edema, absceso y empiema. Las secuelas pueden ser auditivas, vestibulares o cognitivas; el manual sitúa las auditivas/vestibulares en **10–30 %**.
@@ -189,6 +178,14 @@ Vigilar hiponatremia/SIADH, crisis y estatus, infartos por arteritis, hidrocefal
 Empeoran el pronóstico: edad avanzada, otitis/sinusitis, bajo Glasgow, compromiso hemodinámico, hemocultivos positivos, VSG elevada, trombopenia, escasa respuesta celular en LCR —**<100 células/µL**— y crisis precoces o estatus. Un recuento bajo no implica necesariamente enfermedad leve.
 
 *Fuente: cap. 40, pp. 622–623 (PDF 4–5).*
+
+## Destino asistencial y vigilancia
+
+**Organización tomada de INFURG:** la meningitis bacteriana diagnosticada requiere ingreso hospitalario. La sospecha de infección de una derivación de LCR se organiza en un centro con disponibilidad de Neurocirugía y UCI. La necesidad de cuidados intensivos se valora según deterioro neurológico, respiratorio o hemodinámico y complicaciones; no se trasladan aquí sus antiguos umbrales numéricos.
+
+El seguimiento debe volver sobre [las complicaciones descritas por SEN](#complicaciones-y-pronóstico). Un LCR atípico o no concluyente obliga a mantener la incertidumbre diagnóstica; no se utiliza por sí solo como criterio de alta ni se fija una repetición automática de PL a partir del algoritmo de 2012.
+
+*Organización asistencial: INFURG, cap. 18, pp. 155–156 (PDF 11–12); cap. 23, p. 191 (PDF 47). La vigilancia clínica y las limitaciones del LCR se desarrollan en los bloques SEN precedentes.*
 
 ## Profilaxis y vacunación
 
@@ -223,6 +220,28 @@ Las vacunas conjugadas unen polisacáridos y proteínas, favorecen una respuesta
 > **Duda del original B07:** para 4CMenB el párrafo enumera **2, 4 y 12 meses** y añade un refuerzo entre **12 y 15 meses**, sin aclarar la relación entre ambas menciones. Estos calendarios son contenido histórico del manual, cuya bibliografía cita una consulta de 2023; no son un calendario vigente verificado en 2026.
 
 *Fuente: cap. 40, pp. 625–626 y 630 (PDF 7–8 y 12).*
+
+## Etiología orientada por contexto
+
+Neumococo y meningococo reúnen, según el capítulo, aproximadamente el **80 % de las meningitis bacterianas del adulto**. Listeria gana importancia con edad avanzada e inmunodepresión; el estreptococo del grupo B destaca en neonatos y también en adultos mayores con enfermedades debilitantes. La vacunación ha reducido la enfermedad por *H. influenzae*.
+
+| Situación | Patógenos que destaca el manual |
+| --- | --- |
+| Recién nacido | Enterobacterias, *S. agalactiae*, *L. monocytogenes* |
+| Adulto joven | *N. meningitidis*, *S. pneumoniae* |
+| Mayores de 50 años, inmunodepresión o etilismo | Añadir la posibilidad de Listeria y bacilos gramnegativos |
+| Neurocirugía, herida penetrante, drenaje o derivación | *S. aureus*, *S. epidermidis*, bacilos gramnegativos, incluidos *Pseudomonas*, y *Propionibacterium acnes* —denominación del original— |
+| Cirugía ORL, fractura de base de cráneo o implante coclear | Neumococo, *H. influenzae*, estreptococos del grupo A |
+| Defecto de inmunidad celular, corticoides, trasplante, cirrosis o neoplasia | Listeria |
+| Defecto de inmunidad humoral | *H. influenzae* |
+| Asplenia | Neumococo, meningococo, *H. influenzae* |
+| Enfermedad médica avanzada o estrongiloidiasis diseminada | Bacilos gramnegativos |
+
+La secuencia fisiopatológica habitual es colonización de mucosas → bacteriemia → supervivencia intravascular → invasión meníngea. La inflamación explica edema, trombosis e hidrocefalia. También existe inoculación directa o extensión desde un foco contiguo.
+
+Pistas clínicas: rombencefalitis, ataxia y pares craneales orientan a Listeria; púrpura a meningococo; laberintitis con hipoacusia y complicaciones vasculares a neumococo. Son orientaciones, no identificaciones microbiológicas.
+
+*Fuente: cap. 40, pp. 619–621, tablas 1–2 (PDF 1–3).*
 
 ## Meningitis crónicas
 

@@ -1,16 +1,23 @@
-# Fuentes, cobertura y dudas del original
+# Fuentes, cobertura y discrepancias
 
 [Volver al índice](README.md)
 
-## Fuente consultada
+## Jerarquía de las fuentes
 
-**Única fuente clínica consultada:** `Infecciones_del_sistema_nervioso_SEN_2025.pdf`, aportado por el usuario y conservado localmente. El fragmento contiene los capítulos 40–44 del bloque «Patologías neurológicas. Infecciones del sistema nervioso». No incluye portada ni créditos generales; «SEN 2025» identifica el nombre del archivo, sin certificar aquí la edición bibliográfica completa.
+**INFURG-SEMES 2012 estructura la actuación; SEN 2025 gobierna el contenido clínico.** Es la prioridad acordada para estos apuntes. Si hay diferencias entre documentos, se mantiene SEN; si SEN tiene contradicciones internas, omisiones o posibles erratas, se conservan señaladas. La ausencia de un dato en SEN no autoriza a completar una pauta con INFURG.
+
+INFURG también aporta la organización del destino asistencial, siempre atribuida expresamente. No se importan por esa vía sus dosis, umbrales de gravedad, observaciones temporizadas, procedimientos de derivaciones ni reglas de alta. No se han consultado otras fuentes clínicas.
+
+## SEN: fuente clínica prioritaria
+
+**Fuente clínica prioritaria:** `Infecciones_del_sistema_nervioso_SEN_2025.pdf`, aportado por el usuario y conservado localmente. El fragmento contiene los capítulos 40–44 del bloque «Patologías neurológicas. Infecciones del sistema nervioso». No incluye portada ni créditos generales; «SEN 2025» identifica el nombre del archivo, sin certificar aquí la edición bibliográfica completa.
 
 - Extensión: **68 páginas del PDF**, intervalo impreso **619–686**.
 - Correspondencia: **página impresa = página del PDF + 618**. Las páginas PDF 14, 40 y 60 son separadores sin texto extraído.
 - Tamaño del original: **4 949 070 bytes**.
 - SHA-256: `2b8e7dbc7ba0fc023016e93e36ce6d2bfe8b0cef61e4d05f226dc75616eb7842`.
-- Elaboración y revisión de fidelidad: **2 de octubre de 2026**.
+- Elaboración y revisión de fidelidad inicial: **2 de octubre de 2026**.
+- Reorganización y contraste con INFURG: **3 de octubre de 2026**.
 
 | Capítulo | Autoría que figura en el fragmento | Páginas impresas | Páginas PDF |
 | --- | --- | --- | --- |
@@ -22,19 +29,60 @@
 
 Las bibliografías de los capítulos se han identificado dentro del PDF: pp. 630–631, 640–642, 655–657, 674–677 y 686, respectivamente. Sus artículos y guías **no se han consultado directamente**. Cuando una nota menciona un estudio, guía o recomendación, describe lo que cuenta el manual, sin atribuirle una verificación externa.
 
+## INFURG: esqueleto de actuación
+
+**Archivo consultado:** `SNC INFURG_SEMES2012.pdf`, aportado por el usuario y conservado en su ubicación local. El fragmento lleva el título interior *Manejo de Infecciones en Urgencias* y comprende los capítulos 18–23; la identificación «INFURG-SEMES 2012» procede del archivo aportado. No incluye la portada o los créditos generales completos.
+
+- Extensión: **48 páginas del PDF**, intervalo impreso **145–192**.
+- Correspondencia de las páginas con contenido: **impresa = PDF + 144**. PDF 14, 20 y 36 son separadores sin contenido clínico.
+- Tamaño: **1 103 960 bytes**.
+- SHA-256: `363ca6b2b81cb2874880f2c5aa390ccc0a88cdac48b36c81f3ff242972b70ea2`.
+- Lectura completa y contraste: **3 de octubre de 2026**.
+
+| Capítulo | Autoría en el fragmento | Impresa / PDF |
+| --- | --- | --- |
+| 18. Meningitis | Agustín Julián Jiménez, Raquel Parejo Míguez e Irene López Ramos | 145–157 / 1–13 |
+| 19. Encefalitis | Agustín Julián Jiménez, Santiago Estébanez Seco y Raquel Parejo Míguez | 159–163 / 15–19 |
+| 20. Absceso cerebral | Rafael Rubio Díaz, M.ª Paz García Butenegro y Agustín Julián Jiménez | 165–170 / 21–26 |
+| 21. Infecciones parameníngeas | Pablo Franquelo Morales y Félix González Martínez | 171–179 / 27–35 |
+| 22. Mielitis transversa. Infecciones medulares | Ana Huete Hurtado y Félix González Martínez | 181–186 / 37–42 |
+| 23. Infecciones en enfermos con derivaciones de LCR | María Rosario Solano Vera y Félix González Martínez | 187–192 / 43–48 |
+
+Se han leído las bibliografías incluidas en pp. 157, 163, 170, 179, 186 y 192 (PDF 13, 19, 26, 35, 42 y 48), sin consultar directamente las publicaciones que enumeran.
+
+## Cobertura del esqueleto INFURG
+
+INFURG no sustituye el contenido de los cinco capítulos SEN. Aporta una **secuencia asistencial y entradas por presentación**; los bloques de diagnóstico y tratamiento se han movido físicamente para que aparezcan antes de los desarrollos etiológicos extensos. Las dosis, tablas y citas clínicas previas se conservan.
+
+| Capítulo o recurso de INFURG | Elementos usados para organizar | Ubicación y límite |
+| --- | --- | --- |
+| 18. Meningitis, pp. 145–156 / PDF 1–12 | Sospecha y estabilidad → pruebas/LCR → tratamiento → vigilancia, contactos; vía subaguda | [Actuación meníngea](apuntes/00_actuacion_inicial.md#síndrome-meníngeo-agudo) y [bacterianas](apuntes/01_infecciones_bacterianas.md); criterios, dosis y matices de SEN |
+| Algoritmo 1, p. 156 / PDF 12 | Coordinar muestras, tratamiento, imagen y PL; interpretar LCR antes de ajustar | Interpretado en texto en la ruta inicial. No se copia «TC normal → PL» como autorización universal, ni «linfocitario/glucosa normal → vírica» como diagnóstico cerrado |
+| 19. Encefalitis, pp. 159–163 / PDF 15–19 | Reconocimiento → LCR/RM/EEG → tratamiento empírico → ingreso/seguimiento | [Ruta encefalitis](apuntes/00_actuacion_inicial.md#sospecha-de-encefalitis) y [víricas](apuntes/03_infecciones_viricas.md); no corticoides rutinarios de 2012 |
+| 20. Absceso cerebral, pp. 165–170 / PDF 21–26 | Localizar, imagen, foco y muestras, decisión neuroquirúrgica y antimicrobiana | [Colección intracraneal](apuntes/00_actuacion_inicial.md#colección-intracraneal) y [abscesos](apuntes/02_abscesos_y_empiemas.md#absceso-cerebral); excepciones y duraciones SEN |
+| 21. Infecciones parameníngeas, pp. 171–178 / PDF 27–34 | Diferenciar colecciones intracraneales y espinales; reconocer complicación vascular | [Colecciones intracraneales](apuntes/02_abscesos_y_empiemas.md#empiema-subdural-y-absceso-epidural-intracraneales) y rutas espinales. SEN no desarrolla un protocolo completo de anticoagulación de tromboflebitis séptica; no se incorpora el de INFURG |
+| 22. Mielitis e infecciones medulares, pp. 181–186 / PDF 37–42 | Síndrome medular → imagen → compresivo/no compresivo → etiología | [Ruta medular](apuntes/00_actuacion_inicial.md#síndrome-medular-o-radicular); conecta colecciones, mielitis víricas, bacterianas y parasitarias sin pauta empírica universal |
+| Figura 1, p. 184 / PDF 40 | Imagen antes de decidir la vía compresiva o no compresiva | Revisión visual: el gráfico enlaza «no inflamatoria» con mielitis transversa, en tensión con el texto. No se adopta esa flecha ni la PL «obligada» como regla |
+| 23. Derivaciones de LCR, pp. 187–191 / PDF 43–47 | Contexto del dispositivo, infección/disfunción, valoración hospitalaria/neuroquirúrgica y control del foco | [Derivaciones](apuntes/00_actuacion_inicial.md#derivación-de-lcr-o-neurocirugía) y [nosocomial](apuntes/01_infecciones_bacterianas.md#particularidades-de-la-meningitis-nosocomial); no se reconstruye un protocolo de punción del reservorio o recambio ausente en SEN |
+| Destino asistencial, pp. 155, 163, 170, 178, 186 y 191 / PDF 11, 19, 26, 34, 42 y 47 | Ingreso y nivel de vigilancia por síndrome/gravedad | Identificado como organización INFURG en cada recorrido; sin sus cortes de Glasgow, plazos de observación o reglas temporales de alta |
+
+Los **22 cuadros numerados** de INFURG se distribuyen en meningitis (10), absceso (3), parameníngeas (2), mielitis (5) y derivaciones (2). Se han usado para reconocer cómo agrupa etiologías, riesgo, pruebas y tratamiento, **sin reproducir sus tablas posológicas**. Los dos algoritmos anteriores se han interpretado visualmente; las tablas terapéuticas implicadas en las discrepancias se han cotejado también con la imagen del PDF.
+
+Hongos y parásitos conservan su desarrollo SEN, con una entrada por síndrome y decisiones previas al tratamiento. Prionopatías carece de equivalente en INFURG: se ha ordenado como reconocimiento → diferencial tratable → pruebas → interpretación → cuidados; su contenido sigue procediendo íntegramente de SEN.
+
 ## Criterio de síntesis
 
 Los apuntes reorganizan el texto por reconocimiento, diagnóstico, decisiones terapéuticas y seguimiento. La cobertura se refiere a **todos los apartados clínicos**, no a una transcripción de cada frase, referencia o dato epidemiológico histórico. Se conservan los elementos epidemiológicos y fisiopatológicos que explican el riesgo, la sospecha o la conducta. Se han resumido las enumeraciones repetidas y los antecedentes históricos sin convertirlos en recomendaciones nuevas.
 
-Cada bloque clínico termina con capítulo, página impresa y página del PDF. Las figuras se interpretan en palabras; no se han incrustado capturas. Las tablas se han reorganizado sin completar dosis, vías, intervalos, duraciones o criterios que no desarrolla la fuente. Las pautas pediátricas, del embarazo y de inmunodepresión se mantienen con su población identificada.
+Cada bloque clínico termina con capítulo, página impresa y página del PDF. En las cinco notas, las citas «Fuente: cap.» corresponden a SEN; INFURG se identifica por su nombre en cada aportación. En la ruta transversal se distingue siempre la fuente de estructura de la fuente clínica. Las figuras se interpretan en palabras; no se han incrustado capturas. Las tablas se han reorganizado sin completar dosis, vías, intervalos, duraciones o criterios que no desarrolla la fuente. Las pautas pediátricas, del embarazo y de inmunodepresión se mantienen con su población identificada.
 
-## Cobertura de los apartados clínicos
+## Cobertura de los apartados clínicos de SEN
 
 ### Capítulo 40: bacterianas
 
 | Apartado original | Impresa / PDF | Ubicación de la síntesis |
 | --- | --- | --- |
-| 1.1–1.4. Introducción, epidemiología, fisiopatología y clínica de meningitis aguda | 619–622 / 1–4 | [Meningitis aguda](apuntes/01_infecciones_bacterianas.md#meningitis-aguda) |
+| 1.1–1.4. Introducción, epidemiología, fisiopatología y clínica de meningitis aguda | 619–622 / 1–4 | [Meningitis aguda](apuntes/01_infecciones_bacterianas.md#meningitis-aguda) y [etiología por contexto](apuntes/01_infecciones_bacterianas.md#etiología-orientada-por-contexto) |
 | 1.5. Diagnóstico | 622 / 4 | [Diagnóstico y LCR](apuntes/01_infecciones_bacterianas.md#diagnóstico-y-lcr) |
 | 1.6. Complicaciones y factores pronósticos | 622–623 / 4–5 | [Complicaciones y pronóstico](apuntes/01_infecciones_bacterianas.md#complicaciones-y-pronóstico) |
 | 1.7. Diagnóstico diferencial | 623 / 5 | [Diferencial](apuntes/01_infecciones_bacterianas.md#diagnóstico-diferencial) |
@@ -53,7 +101,7 @@ Cada bloque clínico termina con capítulo, página impresa y página del PDF. L
 | Apartado original | Impresa / PDF | Ubicación de la síntesis |
 | --- | --- | --- |
 | 1. Introducción | 633 / 15 | [Localizar la infección](apuntes/02_abscesos_y_empiemas.md#localizar-la-infección) |
-| 2.1–2.4. Definición, epidemiología, etiopatogenia y clínica del absceso cerebral | 633–634 / 15–16 | [Absceso cerebral](apuntes/02_abscesos_y_empiemas.md#absceso-cerebral) |
+| 2.1–2.4. Definición, epidemiología, etiopatogenia y clínica del absceso cerebral | 633–634 / 15–16 | [Absceso cerebral](apuntes/02_abscesos_y_empiemas.md#absceso-cerebral) y [origen/etiología](apuntes/02_abscesos_y_empiemas.md#origen-y-etiología-del-absceso-cerebral) |
 | 2.5–2.6. Diagnóstico y diferencial | 635–636 / 17–18 | [Diagnóstico del absceso cerebral](apuntes/02_abscesos_y_empiemas.md#diagnóstico-del-absceso-cerebral) |
 | 2.7–2.8. Tratamiento y pronóstico | 636–638 / 18–20 | [Tratamiento del absceso cerebral](apuntes/02_abscesos_y_empiemas.md#tratamiento-del-absceso-cerebral) |
 | 3.1–3.5. Empiema subdural y absceso epidural intracraneales | 638–639 / 20–21 | [Colecciones intracraneales](apuntes/02_abscesos_y_empiemas.md#empiema-subdural-y-absceso-epidural-intracraneales) |
@@ -113,7 +161,7 @@ Cada bloque clínico termina con capítulo, página impresa y página del PDF. L
 
 ## Tablas, figuras y esquema
 
-Se revisaron visualmente **29 tablas numeradas, 17 figuras numeradas y el esquema diagnóstico adicional de la p. 684**. La tabla siguiente indica dónde se ha interpretado su contenido; no implica que se reproduzcan sus diseños o todas sus leyendas.
+En SEN se revisaron visualmente **29 tablas numeradas, 17 figuras numeradas y el esquema diagnóstico adicional de la p. 684**. La tabla siguiente indica dónde se ha interpretado su contenido; no implica que se reproduzcan sus diseños o todas sus leyendas.
 
 | Original | Impresa / PDF | Tratamiento en los apuntes |
 | --- | --- | --- |
@@ -137,6 +185,33 @@ Se revisaron visualmente **29 tablas numeradas, 17 figuras numeradas y el esquem
 | Cap. 44, figuras 1–2 | 680–681 / 62–63 | Conversión de PrP y variantes clínicas |
 | Cap. 44, figuras 3–5 | 682–683 y 685 / 64–65 y 67 | RM, EEG, funcionamiento de RT-QuIC y límites de biomarcadores |
 | Cap. 44, esquema diagnóstico sin número | 684 / 66 | Descripción de las categorías impresas, con sus discrepancias explícitas |
+
+## Discrepancias entre INFURG y SEN
+
+INFURG-SEMES 2012 aporta la organización de la actuación; ante diferencias de contenido clínico prevalece SEN 2025. Esta prioridad no resuelve las ambigüedades internas de SEN ni autoriza completar sus pautas incompletas con datos de 2012. La ausencia de un detalle en SEN se señala como límite de cobertura, no como demostración de que el dato antiguo sea incorrecto.
+
+| Aspecto | INFURG: dato que no se traslada automáticamente | Criterio aplicado desde SEN | Referencias de ambas fuentes |
+| --- | --- | --- | --- |
+| D01. Tiempo hasta antibiótico y aciclovir | Alterna dos objetivos numéricos para la primera dosis antibiótica. | Inicio precoz sin demora por TC o PL. La ventana para aciclovir cuando no se dispone de pruebas no es una indicación de esperar si ya existe sospecha o deterioro. | INFURG cap. 18, pp. 151 y 155 (PDF 7 y 11); cap. 19, p. 162 (PDF 18). SEN cap. 40, pp. 622–624 (PDF 4–6); cap. 42, p. 654 (PDF 36). |
+| D02. TC previa, Glasgow y seguridad de PL | Añade umbral numérico de Glasgow, edad, foco ORL y dificultad para realizar fondo de ojo entre las indicaciones. | Se usa la lista clínica de SEN y se conserva su duda B02: mezcla indicaciones de neuroimagen con coagulopatía y sospecha de absceso epidural. Una TC normal no convierte por sí sola la PL en segura. | INFURG cap. 18, p. 149 y pp. 155–156 (PDF 5 y 11–12). SEN cap. 40, p. 622 (PDF 4); cap. 41, p. 640 (PDF 22). |
+| D03. Rangos del LCR | Los rangos celulares y de proteínas de las tablas bacteriana y vírica difieren de SEN. | Se mantienen los rangos y excepciones de SEN, sin unir ambos intervalos ni convertirlos en criterios excluyentes. | INFURG cap. 18, pp. 149–150 (PDF 5–6); cap. 19, p. 161 (PDF 17). SEN cap. 40, p. 622 (PDF 4); cap. 42, pp. 651–652 (PDF 33–34). |
+| D04. Alta, observación y repetición de PL | Fija horas de observación y decúbito tras PL, así como distintos intervalos de repetición según capítulo o algoritmo. | SEN no desarrolla un protocolo equivalente de alta u observación ni valida esos tiempos; además admite LCR inicial normal. Se conserva el apartado de destino como organización INFURG, sin convertir sus plazos o umbrales en autorización de alta ni repetición universal. | INFURG cap. 18, pp. 149 y 155–156 (PDF 5 y 11–12); cap. 19, p. 163 (PDF 19). SEN cap. 40, pp. 622–623 (PDF 4–5); cap. 42, pp. 651–652 y 654 (PDF 33–34 y 36). |
+| D05. Ceftriaxona pediátrica y neonato | La tabla expresa una pauta pediátrica por administración y contempla ceftriaxona en neonatos. | SEN expresa la ceftriaxona pediátrica como total diario repartido y recoge cefotaxima más ampicilina en el esquema neonatal. No se importa ni convierte la pauta de 2012. | INFURG cap. 18, p. 151, tabla 6 (PDF 7). SEN cap. 40, pp. 620 y 624, tablas 1 y 4 (PDF 2 y 6). |
+| D06. Dexametasona en meningitis bacteriana | Utiliza pauta ponderal, duración variable y exclusión si ya recibía antibiótico parenteral; vincula además corticoide a añadir rifampicina. | Se conserva la pauta fija adulta, duración y matices temporales/etiológicos de SEN. No se añaden prohibición absoluta ni rifampicina obligatoria a partir de INFURG. | INFURG cap. 18, pp. 151–153 (PDF 7–9). SEN cap. 40, pp. 624–625 y 630 (PDF 6–7 y 12). |
+| D07. Profilaxis meningocócica | Cambian límites de edad, opciones de dosis y formulaciones sobre embarazo. | Se conserva la tabla de SEN junto a B06, incluidos sus huecos en edades exactas y la ambigüedad sobre rifampicina en embarazo. No se reparan con los límites de INFURG. | INFURG cap. 18, p. 154, tabla 9 (PDF 10). SEN cap. 40, p. 625, tabla 6 (PDF 7). |
+| D08. Tuberculosis y neurobrucelosis | Difieren la dosis/condición de añadir etambutol y las pautas de rifampicina y gentamicina en Brucella. | Se mantienen indicaciones, dosis, fases y duración de SEN; no se añade sistemáticamente el cuarto fármaco de INFURG ni se sustituyen dosis ponderales por las fijas antiguas. | INFURG cap. 18, pp. 154–155, tabla 10 (PDF 10–11); cap. 22, p. 185 (PDF 41). SEN cap. 40, pp. 627–628 (PDF 9–10). |
+| D09. Neuroborreliosis | La ceftriaxona se presenta con un intervalo diferente y sin la separación clínica que desarrolla SEN. | Prevalecen la pauta SEN y su distinción entre formas menos graves y graves, conservando el matiz sobre eficacia comparable de doxiciclina en estudios europeos. | INFURG cap. 18, p. 154 (PDF 10); cap. 22, p. 185 (PDF 41). SEN cap. 40, p. 629 (PDF 11). |
+| D10. Corticoides en encefalitis | Propone dexametasona si no está contraindicada. | SEN no recomienda corticoides ni inmunoglobulinas rutinarios; se conserva la indicación específica de corticoides con aciclovir en vasculitis VVZ. | INFURG cap. 19, p. 162 (PDF 18). SEN cap. 42, pp. 654–655 (PDF 36–37). |
+| D11. CMV y foscarnet | Presenta una pauta de foscarnet con intervalo para CMV y una cobertura amplia en inmunodepresión. | Se conserva la pauta de CMV de SEN con su intervalo ausente señalado; no se rellena con INFURG ni con la pauta SEN de HHV-6. Las indicaciones se separan por agente y síndrome. | INFURG cap. 19, p. 163 (PDF 19); cap. 22, p. 185 (PDF 41). SEN cap. 42, p. 654 (PDF 36). |
+| D12. Toxoplasmosis y VIH | El pie de tabla utiliza «SIDA o serología positiva» y aporta dosis y duración completas que no coinciden con el desarrollo de SEN. | SEN exige interpretar inmunidad, clínica, imagen y serología conjuntamente. No se convierte seropositividad aislada en infección activa ni se rellenan las dosis ausentes del capítulo específico con INFURG. | INFURG cap. 20, p. 169, tabla 2 (PDF 25). SEN cap. 41, p. 637, tabla 2 (PDF 19); cap. 43, pp. 667–668 (PDF 49–50). |
+| D13. Esquema empírico del absceso cerebral | Agrupa endocarditis con trauma/neurocirugía; cambia la combinación para foco desconocido y desarrolla ajustes otógenos. | Se utilizan las filas diferenciadas de SEN. La cobertura otógena incompleta permanece señalada como A03; la nota antigua no se incorpora como corrección implícita de SEN. | INFURG cap. 20, p. 169, tabla 2 (PDF 25). SEN cap. 41, p. 637, tabla 2 (PDF 19). |
+| D14. Duración y adyuvantes del absceso | Presenta una duración general y pautas numéricas de corticoide/fenitoína. | SEN diferencia aspiración, manejo médico y exéresis, y condiciona las pautas cortas. La profilaxis antiepiléptica primaria se mantiene como propuesta de algunos autores sin guías claras, no como obligación; no se importan dosis adyuvantes. | INFURG cap. 20, pp. 169–170 (PDF 25–26). SEN cap. 41, pp. 636–638 (PDF 18–20). |
+| D15. Parálisis y cirugía del absceso epidural espinal | Desestima cirugía con para/tetraplejía establecida y establece un corte pronóstico más restrictivo. | SEN conserva drenaje y antibióticos como estándar, incluso plantea intervención temprana ante paraplejía completa. No se transforma la parálisis en contraindicación ni el límite temporal de SEN en una espera programada. | INFURG cap. 21, p. 178 (PDF 34). SEN cap. 41, p. 640 (PDF 22). |
+| D16. Algoritmo de mielopatía | Tras excluir compresión plantea PL obligada y ofrece regímenes empíricos extensos para mielitis, inmunodepresión y absceso intramedular. | Se conserva la bifurcación anatómica mediante imagen como orientación organizativa; no se copia la PL como regla universal ni un protocolo farmacológico completo. SEN distingue colecciones, causas víricas e inmunomediadas y mantiene la PL generalmente contraindicada en absceso epidural. | INFURG cap. 22, pp. 184–186 (PDF 40–42). SEN cap. 41, pp. 639–640 (PDF 21–22); cap. 42, pp. 647–648 y 654–655 (PDF 29–30 y 36–37). |
+| D17. Retirada del catéter y colocación de uno nuevo | Describe demoras desde el inicio antibiótico hasta retirar el sistema, con variantes según dependencia y tipo de drenaje. | SEN indica retirada del catéter infectado y condiciona la colocación del nuevo a cultivos de LCR negativos durante el período señalado. Son decisiones distintas: no se importa una demora programada de retirada ni se usa el plazo de recambio como protocolo completo. | INFURG cap. 23, pp. 190–191 (PDF 46–47). SEN cap. 40, pp. 623–625 (PDF 5–7). |
+| D18. Tratamiento genérico de «hongos» | La tabla medular reúne antifúngicos como alternativas de un mismo grupo sin desarrollar etiología. | El capítulo específico SEN separa criptococo, Candida, Aspergillus y mucorales. Tampoco se extiende a cualquier hongo la mención general de voriconazol del capítulo de abscesos; se conserva A02 y se remite a la micosis concreta. | INFURG cap. 22, p. 185, tabla 5 (PDF 41). SEN cap. 41, p. 637 (PDF 19); cap. 43, pp. 659–665 (PDF 41–47). |
+
+Los protocolos de tromboflebitis séptica intracraneal y de mielitis transversa de INFURG exceden el desarrollo específico del fragmento SEN disponible. Sus encabezados pueden orientar la búsqueda y la valoración especializada, pero no se presentan como protocolos actualizados por SEN.
 
 ## Registro de dudas y limitaciones de la fuente
 
@@ -179,10 +254,11 @@ También se conservan, junto a su contexto, diferencias de énfasis que no se ha
 
 ## Comprobaciones y límites
 
-- Lectura íntegra del PDF antes de redactar, con extracción de texto y contraste visual de tablas, figuras y esquema.
+- Lectura íntegra de SEN antes de la redacción inicial, con extracción de texto y contraste visual de tablas, figuras y esquema. Lectura íntegra de INFURG antes de la reorganización, con revisión visual de sus algoritmos y tablas terapéuticas comparadas.
 - Segunda pasada de cada dosis incluida: **fármaco, indicación, población, unidad, total diario o cantidad por administración, intervalo, vía y duración**. Cuando un campo falta o es ambiguo se indica; no se completa por memoria.
 - Revisión de cifras, unidades y tablas frente al original, y coherencia entre las cinco notas. No se trasladan dosis de meningitis a abscesos ni pautas de una formulación de anfotericina a otra.
 - Comprobación de correspondencia de páginas, estructura de tablas, destinos de enlaces e índices de Markdown.
-- Publicación limitada a `README.md`, este registro y las cinco notas. El PDF y los materiales temporales de extracción/revisión quedan fuera del repositorio remoto.
+- En la reorganización se comparan las tablas, líneas numéricas, bloques clínicos y avisos de SEN con la versión previa, para detectar pérdidas o cambios involuntarios. Las adiciones se revisan contra su fuente y no introducen dosis de INFURG.
+- Publicación limitada a `README.md`, este registro, `apuntes/00_actuacion_inicial.md` y las cinco notas. Los dos PDF y los materiales temporales de extracción/revisión quedan fuera del repositorio remoto.
 
 La revisión es de **fidelidad documental**, realizada durante la elaboración de los apuntes; no equivale a una revisión clínica independiente, una actualización terapéutica ni una resolución de las dudas enumeradas. Las recomendaciones sobre vacunas, fármacos, prevención o declaración de enfermedades mantienen el contexto del manual.

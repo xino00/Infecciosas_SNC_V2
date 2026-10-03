@@ -1,53 +1,25 @@
 # Prionopatías
 
-[Índice general](../README.md) · [Fuentes y dudas del original](../FUENTES_Y_COBERTURA.md)
+[Índice general](../README.md) · [Actuación inicial](00_actuacion_inicial.md) · [Fuentes y dudas del original](../FUENTES_Y_COBERTURA.md)
 
-**Fuente:** capítulo 44, Silvia Enríquez Calzada y Alejandro Durán Lozano. Páginas impresas 679–686; PDF 61–68. Síntesis del manual, sin actualización externa.
+**Fuente clínica: SEN 2025**, capítulo 44, Silvia Enríquez Calzada y Alejandro Durán Lozano. Páginas impresas 679–686; PDF 61–68. Síntesis del manual, sin actualización externa. Las citas «Fuente: cap.» de este tema se refieren a SEN.
+
+**Lugar en el esqueleto de actuación:** INFURG no desarrolla las prionopatías. Este tema conserva SEN como fuente y adopta el orden práctico de reconocer → buscar alternativas tratables → estudiar → interpretar → cuidar. La etiología y los mecanismos se consultan después del recorrido clínico.
 
 ## Contenido
 
-- [Concepto y mecanismos](#concepto-y-mecanismos)
 - [Reconocimiento clínico](#reconocimiento-clínico)
+- [Diagnóstico diferencial](#diagnóstico-diferencial)
 - [Estudio de una demencia rápidamente progresiva](#estudio-de-una-demencia-rápidamente-progresiva)
 - [Biomarcadores](#biomarcadores)
 - [Esquema diagnóstico del manual](#esquema-diagnóstico-del-manual)
-- [Diagnóstico diferencial](#diagnóstico-diferencial)
 - [Tratamiento y precauciones](#tratamiento-y-precauciones)
 - [Puntos de decisión](#puntos-de-decisión)
-
-## Concepto y mecanismos
-
-Las enfermedades priónicas o encefalopatías espongiformes transmisibles son trastornos neurodegenerativos progresivos y fatales. La proteína celular **PrPᶜ**, codificada por **PRNP en el cromosoma 20**, adopta una conformación patológica **PrPˢᶜ**, rica en estructura β-plegada y resistente a degradación. Esta favorece que otras proteínas normales cambien de conformación, se agreguen y produzcan neurodegeneración. El agente infeccioso es proteico, sin material genético propio.
-
-La figura 1 contrapone ambas conformaciones y relaciona la proteína celular con homeostasis de cobre/zinc, señalización, adhesión y supervivencia celular, diferenciación y mantenimiento de mielina periférica. La histología descrita incluye pérdida neuronal, gliosis y vacuolización, sin la reacción inflamatoria propia de una encefalitis infecciosa convencional.
-
-| Origen | Formas del capítulo |
-| --- | --- |
-| Esporádico | Enfermedad de Creutzfeldt-Jakob (ECJ), la forma predominante |
-| Genético | ECJ familiar, síndrome de Gerstmann-Sträussler-Scheinker (GSS), insomnio familiar fatal (IFF) |
-| Adquirido | Iatrogenia, kuru y variante zoonótica de ECJ vinculada a encefalopatía espongiforme bovina |
-
-El manual distribuye aproximadamente **85 %** como esporádicas, **15 %** genéticas y **<1 %** adquiridas; son proporciones redondeadas, no una suma exacta. La ECJ esporádica suele comenzar alrededor de los 60 años y el capítulo describe muerte durante el primer año en aproximadamente el **70 %**.
-
-*Fuente: cap. 44, pp. 679–680, figura 1 (PDF 61–62).*
-
-### Subtipos y genética
-
-La clasificación combina el polimorfismo metionina/valina del **codón 129** con características de la proteína patológica. La fuente enumera:
-
-- **MM1/MV1:** presentación clásica, con demencia rápidamente progresiva, mioclonías y ataxia.
-- **VV2:** ataxia rápidamente progresiva.
-- **MV2:** ataxia o demencia de evolución más lenta.
-- **MM2 talámica:** semejante al IFF.
-- **MM2 cortical** y **VV1**, este último infrecuente.
-
-La secuenciación de PRNP se considera ante sospecha hereditaria; el codón 129 también aporta información pronóstica. El capítulo destaca E200K en ECJ familiar; para GSS enumera P102L, P105L, P105T, A117V, Q145X, F198S y OPRI. GSS combina ataxia progresiva, demencia y signos motores.
-
-El IFF se caracteriza por insomnio, disautonomía y deterioro cognitivo y se relaciona en el texto con D178N. **Duda P01:** el párrafo sitúa esa mutación «en el codón 129», mezclando la denominación D178N con el polimorfismo previamente descrito. No se reconstruye la relación genética exacta con información externa.
-
-*Fuente: cap. 44, pp. 680 y 682 (PDF 62 y 64).*
+- [Concepto y mecanismos](#concepto-y-mecanismos)
 
 ## Reconocimiento clínico
+
+**Siglas de lectura:** ECJ = enfermedad de Creutzfeldt-Jakob; IFF = insomnio familiar fatal; PrP = proteína priónica; PRNP = gen que la codifica. Su explicación se amplía en [concepto y mecanismos](#concepto-y-mecanismos).
 
 La combinación clásica es **deterioro cognitivo rápidamente progresivo + ataxia + mioclonías**, con signos piramidales, extrapiramidales o visuales. Puede comenzar con síntomas inespecíficos —cambio de humor, conducta, sueño o apetito— y confusión, alucinaciones o agitación.
 
@@ -68,6 +40,21 @@ La progresión afecta varios dominios cognitivos y puede terminar en mutismo aci
 **Lectura de la figura 2:** estas presentaciones convergen hacia mutismo acinético. La figura separa variantes ictal y corticobasal, aunque el texto las agrupa en una misma viñeta. No se deduce que sean sinónimos.
 
 *Fuente: cap. 44, pp. 680–681, figura 2 (PDF 62–63).*
+
+## Diagnóstico diferencial
+
+| Grupo | Alternativas citadas |
+| --- | --- |
+| Infeccioso | Virus, VIH, LMP por JC, hongos, enfermedad de Whipple |
+| Tóxico-metabólico | Wernicke, encefalopatía hepática, litio, encefalopatía de Hashimoto según la agrupación del manual |
+| Vascular | Ictus, vasculitis, PRES, fístula arteriovenosa |
+| Neurodegenerativo | Alzheimer rápido, degeneración corticobasal, demencia con cuerpos de Lewy |
+| Inmunomediado | Encefalitis límbica, de tronco o cerebelosa; anti-NMDA y anticuerpos contra canales de potasio dependientes de voltaje en la nomenclatura de la fuente |
+| Neoplásico | Linfoma primario del SNC, linfoma intravascular, carcinomatosis meníngea |
+
+**Datos que obligan a reconsiderar el diagnóstico:** fiebre, crisis epilépticas, hiponatremia, movimientos faciales, pleocitosis, lesiones captantes o hiperintensidades T2 fuera de estriado, tálamo o corteza. Son señales para buscar alternativas, incluidas tratables; no simples «variantes de ECJ» por defecto.
+
+*Fuente: cap. 44, pp. 683–684 y 686 (PDF 65–66 y 68).*
 
 ## Estudio de una demencia rápidamente progresiva
 
@@ -139,21 +126,6 @@ Para la forma **familiar**, recoge un caso definitivo/probable en un familiar de
 
 *Fuente: cap. 44, pp. 683–684, esquema de la sección 6 (PDF 65–66).*
 
-## Diagnóstico diferencial
-
-| Grupo | Alternativas citadas |
-| --- | --- |
-| Infeccioso | Virus, VIH, LMP por JC, hongos, enfermedad de Whipple |
-| Tóxico-metabólico | Wernicke, encefalopatía hepática, litio, encefalopatía de Hashimoto según la agrupación del manual |
-| Vascular | Ictus, vasculitis, PRES, fístula arteriovenosa |
-| Neurodegenerativo | Alzheimer rápido, degeneración corticobasal, demencia con cuerpos de Lewy |
-| Inmunomediado | Encefalitis límbica, de tronco o cerebelosa; anti-NMDA y anticuerpos contra canales de potasio dependientes de voltaje en la nomenclatura de la fuente |
-| Neoplásico | Linfoma primario del SNC, linfoma intravascular, carcinomatosis meníngea |
-
-**Datos que obligan a reconsiderar el diagnóstico:** fiebre, crisis epilépticas, hiponatremia, movimientos faciales, pleocitosis, lesiones captantes o hiperintensidades T2 fuera de estriado, tálamo o corteza. Son señales para buscar alternativas, incluidas tratables; no simples «variantes de ECJ» por defecto.
-
-*Fuente: cap. 44, pp. 683–684 y 686 (PDF 65–66 y 68).*
-
 ## Tratamiento y precauciones
 
 El capítulo **no describe tratamiento modificador eficaz**. Enumera líneas experimentales —derivados de quinina, polianiones sulfatados, aminotiazoles, compuestos de sulfonilurea, tetraciclinas, anfotericina, rapamicina, anticuerpos/inmunización y terapia de ARN—. No son pautas clínicas recomendadas ni se ofrecen dosis.
@@ -175,5 +147,37 @@ El texto considera la sospecha de ECJ de declaración obligatoria y menciona, tr
 - Conservar la incertidumbre del esquema del manual en lugar de convertirlo en una regla diagnóstica aparentemente exacta.
 
 *Fuente: cap. 44, pp. 681–686 (PDF 63–68).*
+
+## Concepto y mecanismos
+
+Las enfermedades priónicas o encefalopatías espongiformes transmisibles son trastornos neurodegenerativos progresivos y fatales. La proteína celular **PrPᶜ**, codificada por **PRNP en el cromosoma 20**, adopta una conformación patológica **PrPˢᶜ**, rica en estructura β-plegada y resistente a degradación. Esta favorece que otras proteínas normales cambien de conformación, se agreguen y produzcan neurodegeneración. El agente infeccioso es proteico, sin material genético propio.
+
+La figura 1 contrapone ambas conformaciones y relaciona la proteína celular con homeostasis de cobre/zinc, señalización, adhesión y supervivencia celular, diferenciación y mantenimiento de mielina periférica. La histología descrita incluye pérdida neuronal, gliosis y vacuolización, sin la reacción inflamatoria propia de una encefalitis infecciosa convencional.
+
+| Origen | Formas del capítulo |
+| --- | --- |
+| Esporádico | Enfermedad de Creutzfeldt-Jakob (ECJ), la forma predominante |
+| Genético | ECJ familiar, síndrome de Gerstmann-Sträussler-Scheinker (GSS), insomnio familiar fatal (IFF) |
+| Adquirido | Iatrogenia, kuru y variante zoonótica de ECJ vinculada a encefalopatía espongiforme bovina |
+
+El manual distribuye aproximadamente **85 %** como esporádicas, **15 %** genéticas y **<1 %** adquiridas; son proporciones redondeadas, no una suma exacta. La ECJ esporádica suele comenzar alrededor de los 60 años y el capítulo describe muerte durante el primer año en aproximadamente el **70 %**.
+
+*Fuente: cap. 44, pp. 679–680, figura 1 (PDF 61–62).*
+
+### Subtipos y genética
+
+La clasificación combina el polimorfismo metionina/valina del **codón 129** con características de la proteína patológica. La fuente enumera:
+
+- **MM1/MV1:** presentación clásica, con demencia rápidamente progresiva, mioclonías y ataxia.
+- **VV2:** ataxia rápidamente progresiva.
+- **MV2:** ataxia o demencia de evolución más lenta.
+- **MM2 talámica:** semejante al IFF.
+- **MM2 cortical** y **VV1**, este último infrecuente.
+
+La secuenciación de PRNP se considera ante sospecha hereditaria; el codón 129 también aporta información pronóstica. El capítulo destaca E200K en ECJ familiar; para GSS enumera P102L, P105L, P105T, A117V, Q145X, F198S y OPRI. GSS combina ataxia progresiva, demencia y signos motores.
+
+El IFF se caracteriza por insomnio, disautonomía y deterioro cognitivo y se relaciona en el texto con D178N. **Duda P01:** el párrafo sitúa esa mutación «en el codón 129», mezclando la denominación D178N con el polimorfismo previamente descrito. No se reconstruye la relación genética exacta con información externa.
+
+*Fuente: cap. 44, pp. 680 y 682 (PDF 62 y 64).*
 
 [Anterior: hongos y parásitos](04_hongos_y_parasitos.md) · [Volver al índice](../README.md)

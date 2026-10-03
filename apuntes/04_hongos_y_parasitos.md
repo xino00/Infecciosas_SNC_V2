@@ -1,8 +1,10 @@
 # Infecciones fúngicas y parasitarias del sistema nervioso
 
-[Índice general](../README.md) · [Fuentes y dudas del original](../FUENTES_Y_COBERTURA.md)
+[Índice general](../README.md) · [Actuación inicial](00_actuacion_inicial.md) · [Fuentes y dudas del original](../FUENTES_Y_COBERTURA.md)
 
-**Fuente:** capítulo 43, Alberto Sáez Marín, Erik Stiauren Fernández e Íñigo Corral Corral. Páginas impresas 659–677; PDF 41–59. Síntesis del manual, sin actualización externa.
+**Fuente clínica prioritaria: SEN 2025**, capítulo 43, Alberto Sáez Marín, Erik Stiauren Fernández e Íñigo Corral Corral. Páginas impresas 659–677; PDF 41–59. Síntesis del manual, sin actualización externa. Las citas «Fuente: cap.» de este tema se refieren a SEN.
+
+**Organización:** INFURG aporta el recorrido por síndrome y decisiones. Su fragmento no contiene un capítulo equivalente al conjunto de hongos y parásitos; se conserva toda la amplitud clínica de SEN. Dentro de cada enfermedad, seguir reconocimiento → confirmación → decisiones terapéuticas → vigilancia.
 
 ## Contenido
 
@@ -23,6 +25,20 @@
 - [Puntos de decisión](#puntos-de-decisión)
 
 ## Orientación inicial
+
+### Recorrido antes de elegir el agente
+
+1. **Localizar el problema.** Diferenciar síndrome meníngeo, encefalopatía, lesión focal, invasión sinusal/orbitaria o mielorradiculopatía; combinarlo con inmunidad, dispositivos y exposición.
+2. **Escoger la vía diagnóstica.** En meningitis subaguda por criptococo, antígeno y LCR ocupan un lugar central; en lesión focal o invasiva, la imagen y, según el agente, la biopsia orientan la decisión. La indicación de LCR no sustituye la valoración de seguridad de PL.
+3. **Reconocer lo que cambia el orden del tratamiento.** [Mucormicosis](#mucormicosis) requiere considerar desbridamiento precoz; [criptococosis](#criptococosis), control de presión intracraneal; [neurocisticercosis](#decisiones-antes-de-administrar-antihelmínticos), valorar presión, crisis, ojo y localización antes de antihelmínticos.
+4. **Elegir una pauta específica.** No extrapolar un antifúngico a todo el grupo ni una dosis entre formulaciones. En lesión compatible con [toxoplasmosis](#toxoplasmosis), integrar huésped, imagen, serología y respuesta, sin atribuir actividad a una serología aislada.
+5. **Planificar la reevaluación que desarrolla cada apartado.** Comprobar respuesta clínica, microbiológica o de imagen; mantener las condiciones expresas del huésped para consolidación o mantenimiento. Cuando SEN no completa una pauta, conservar la limitación.
+
+*Clínica: SEN, cap. 43, pp. 659–671 (PDF 41–53). Estructura sindrómica: INFURG, caps. 18–22, pp. 147–150, 160–162, 167–168, 175–176 y 183–185 (PDF 3–6, 16–18, 23–24, 31–32 y 39–41).*
+
+**Si predomina déficit medular o sospecha de colección espinal**, comenzar por la [ruta medular](00_actuacion_inicial.md#síndrome-medular-o-radicular); ante una colección cerebral, por la [ruta intracraneal](00_actuacion_inicial.md#colección-intracraneal). Volver al agente tras localizar el proceso. El destino asistencial se decide por ese síndrome y su gravedad; INFURG no proporciona en este fragmento una vía de alta específica para cada micosis o parasitosis.
+
+### Orientar la etiología por la presentación
 
 | Presentación/contexto | Diagnósticos destacados en el capítulo |
 | --- | --- |

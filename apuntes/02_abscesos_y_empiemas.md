@@ -1,18 +1,25 @@
 # Abscesos y empiemas del sistema nervioso
 
-[Índice general](../README.md) · [Fuentes y dudas del original](../FUENTES_Y_COBERTURA.md)
+[Actuación inicial](00_actuacion_inicial.md) · [Índice general](../README.md) · [Fuentes y dudas del original](../FUENTES_Y_COBERTURA.md)
 
 **Fuente:** capítulo 41, José Ramón Ara Callizo. Páginas impresas 633–642; PDF 15–24. Síntesis del manual, sin actualización externa.
+
+**Cómo se organiza:** INFURG-SEMES 2012 aporta la secuencia de actuación —localizar, reconocer, estudiar y tratar—; SEN 2025 es la fuente clínica prioritaria. Las referencias «Fuente: cap. …» corresponden a SEN. Las aportaciones organizativas de INFURG se identifican aparte y no resuelven las dudas internas de SEN.
+
+*Arquitectura: INFURG, caps. 20–21, pp. 165–178 (PDF 21–34); cap. 22, pp. 183–186 (PDF 39–42).*
 
 ## Contenido
 
 - [Localizar la infección](#localizar-la-infección)
+- [Ruta ante un síndrome medular](#ruta-ante-un-síndrome-medular)
 - [Absceso cerebral](#absceso-cerebral)
 - [Diagnóstico del absceso cerebral](#diagnóstico-del-absceso-cerebral)
 - [Tratamiento del absceso cerebral](#tratamiento-del-absceso-cerebral)
 - [Empiema subdural y absceso epidural intracraneales](#empiema-subdural-y-absceso-epidural-intracraneales)
 - [Absceso epidural espinal](#absceso-epidural-espinal)
 - [Absceso intramedular y subdural espinal](#absceso-intramedular-y-subdural-espinal)
+- [Destino asistencial](#destino-asistencial)
+- [Origen y etiología del absceso cerebral](#origen-y-etiología-del-absceso-cerebral)
 - [Puntos de decisión](#puntos-de-decisión)
 
 ## Localizar la infección
@@ -29,36 +36,38 @@ Todas son urgencias por riesgo de lesión neurológica permanente. El empiema su
 
 *Fuente: cap. 41, pp. 633 y 638–640 (PDF 15 y 20–22).*
 
+## Ruta ante un síndrome medular
+
+La figura de INFURG ordena la evaluación mediante una primera pregunta: **¿hay una causa compresiva o una mielopatía no compresiva?** Se utiliza como mapa de navegación; las pruebas, condiciones y tratamientos concretos se apoyan en los apartados SEN enlazados.
+
+1. **Localizar el síndrome.** Dolor vertebral o radicular, debilidad, alteración sensitiva o disfunción esfinteriana orientan al recorrido espinal; no es necesario reunir la tríada completa de absceso epidural.
+2. **Priorizar la imagen.** Revisar el [diagnóstico urgente del absceso epidural](#diagnóstico-urgente), con RM como prueba principal y sus alternativas descritas por SEN.
+3. **Si se identifica una colección o compromiso compresivo**, activar la valoración neuroquirúrgica y seguir la vía de [absceso epidural](#tratamiento-y-seguimiento) o de [colecciones intramedulares y subdurales](#absceso-intramedular-y-subdural-espinal), según localización.
+4. **Si no se identifica compresión**, mantener el diagnóstico diferencial de mielitis, isquemia, tumor y otros procesos, sin concluir automáticamente que exista infección. Para las manifestaciones infecciosas descritas, consultar [mielitis y radiculitis víricas](03_infecciones_viricas.md#manifestaciones-clínicas), [tuberculosis](01_infecciones_bacterianas.md#tuberculosis), [neurobrucelosis](01_infecciones_bacterianas.md#neurobrucelosis), [neuroborreliosis](01_infecciones_bacterianas.md#neuroborreliosis-de-lyme) y [esquistosomiasis](04_hongos_y_parasitos.md#esquistosomiasis), según contexto.
+
+La ausencia de compresión **no convierte la PL en un paso automático**. En sospecha de absceso epidural, SEN la considera generalmente contraindicada. No se reproducen la indicación universal de PL ni las pautas empíricas de mielitis del esquema de 2012.
+
+*Arquitectura: INFURG, cap. 22, pp. 183–184, figura 1 (PDF 39–40). Fuente clínica: SEN, cap. 41, pp. 639–640 (PDF 21–22), y los apartados etiológicos enlazados con sus citas propias.*
+
 ## Absceso cerebral
-
-### Cómo se forma y qué buscar
-
-La cerebritis focal puede convertirse en una colección encapsulada en **2–3 semanas**. Las vías de llegada son inoculación directa —neurocirugía o traumatismo abierto—, extensión contigua —sinusitis, otitis o mastoiditis— y diseminación hematógena —endocarditis, foco pulmonar, dental, abdominal o cardiopatía cianógena—.
-
-Los abscesos por contigüidad suelen ser únicos y próximos al foco; los hematógenos son con frecuencia múltiples y se sitúan en la unión entre sustancia gris y blanca. A menudo son polimicrobianos. *Streptococcus* y *Staphylococcus* predominan en inmunocompetentes. La inmunodepresión amplía el espectro a Listeria, Nocardia, Rhodococcus, hongos y Toxoplasma.
-
-El contexto geográfico obliga a considerar neurocisticercosis y micobacterias en el diferencial de lesiones expansivas. **Duda A01:** el capítulo agrupa neurocisticercosis bajo la discusión del absceso; no se equipara automáticamente un quiste parasitario con un absceso piógeno. Véase [hongos y parásitos](04_hongos_y_parasitos.md).
-
-*Fuente: cap. 41, pp. 633–634 (PDF 15–16).*
-
-### Foco, localización y microbiología
-
-| Foco | Localización orientativa | Microorganismos de la tabla 1 |
-| --- | --- | --- |
-| Senos paranasales | Frontal | Estreptococos, *S. aureus*, Haemophilus, Bacteroides y enterobacterias |
-| Otitis/mastoiditis | Temporal o cerebelo | Estreptococos, enterobacterias, Bacteroides y Pseudomonas |
-| Endocarditis | A menudo múltiples | Estreptococos, *S. aureus*, enterococos |
-| Infección pulmonar | A menudo múltiples | Estreptococos, Bacteroides, Prevotella, Fusobacterium, enterococos y Nocardia |
-| Infección dental | Múltiples o frontales | Fusobacterium, Prevotella, Bacteroides, Actinomyces y grupo *S. milleri* |
-| Trauma abierto/neurocirugía | Habitualmente único | *S. aureus*, *S. epidermidis*, estreptococos, enterobacterias y Clostridium |
-
-*Fuente: cap. 41, p. 634, tabla 1 (PDF 16).*
 
 ### Reconocimiento clínico
 
 Cefalea, náuseas/vómitos, descenso de conciencia, focalidad y crisis. El cuadro puede parecer una lesión ocupante de espacio. **La fiebre puede faltar** y la tríada fiebre-cefalea-déficit focal aparece en torno al **20 % o menos**. Buscar un foco y conocer la inmunidad resulta más útil que exigir un cuadro completo.
 
 *Fuente: cap. 41, p. 634 (PDF 16).*
+
+### Secuencia de actuación
+
+1. Estabilizar ABC y obtener hemocultivos y analítica, incluidas función renal/hepática, electrolitos y coagulación.
+2. Obtener neuroimagen urgente y completar con RM cuando sea posible.
+3. Solicitar **valoración neuroquirúrgica desde el diagnóstico**.
+4. Iniciar antibióticos empíricos orientados por foco, inmunidad y contexto; ajustar al microorganismo y sensibilidad.
+5. Tratar el foco primario y seguir la evolución clínica y radiológica.
+
+**Excepción acotada del manual:** si el paciente está estable y el drenaje se realizará en las primeras horas, puede demorarse el antibiótico hasta obtener la muestra quirúrgica. No se extiende esa excepción al paciente inestable ni a un drenaje incierto.
+
+*Fuente: cap. 41, pp. 636–638 (PDF 18–20).*
 
 ## Diagnóstico del absceso cerebral
 
@@ -94,18 +103,6 @@ La aspiración/biopsia confirma diagnóstico e identifica el agente. El apartado
 *Fuente: cap. 41, pp. 635–637 (PDF 17–19).*
 
 ## Tratamiento del absceso cerebral
-
-### Secuencia de actuación
-
-1. Estabilizar ABC y obtener hemocultivos y analítica, incluidas función renal/hepática, electrolitos y coagulación.
-2. Obtener neuroimagen urgente y completar con RM cuando sea posible.
-3. Solicitar **valoración neuroquirúrgica desde el diagnóstico**.
-4. Iniciar antibióticos empíricos orientados por foco, inmunidad y contexto; ajustar al microorganismo y sensibilidad.
-5. Tratar el foco primario y seguir la evolución clínica y radiológica.
-
-**Excepción acotada del manual:** si el paciente está estable y el drenaje se realizará en las primeras horas, puede demorarse el antibiótico hasta obtener la muestra quirúrgica. No se extiende esa excepción al paciente inestable ni a un drenaje incierto.
-
-*Fuente: cap. 41, pp. 636–638 (PDF 18–20).*
 
 ### Esquemas empíricos según el foco
 
@@ -206,6 +203,39 @@ El déficit previo y el retraso hasta la intervención condicionan las secuelas.
 Son muy infrecuentes y difíciles de diferenciar clínicamente del epidural. El manual no desarrolla protocolos separados: señala similitud de fuentes, etiología, métodos diagnósticos y tratamiento. Se conserva esta limitación en lugar de añadir pautas externas.
 
 *Fuente: cap. 41, p. 640, apartado 5 (PDF 22).*
+
+## Destino asistencial
+
+**Organización tomada de INFURG:** abscesos cerebrales e infecciones parameníngeas requieren ingreso hospitalario, consulta urgente con Neurocirugía y valoración de UCI según la situación. Las infecciones medulares se organizan igualmente en el hospital, con disponibilidad neuroquirúrgica siempre que sea posible. La consulta ORL se incorpora cuando el foco lo requiere.
+
+Esta organización acompaña las decisiones de drenaje, tratamiento del foco y seguimiento descritas por SEN; no añade por sí misma una indicación quirúrgica uniforme para todas las colecciones.
+
+*Organización asistencial: INFURG, cap. 20, p. 170 (PDF 26); cap. 21, p. 178 (PDF 34); cap. 22, p. 186 (PDF 42).*
+
+## Origen y etiología del absceso cerebral
+
+### Cómo se forma y qué buscar
+
+La cerebritis focal puede convertirse en una colección encapsulada en **2–3 semanas**. Las vías de llegada son inoculación directa —neurocirugía o traumatismo abierto—, extensión contigua —sinusitis, otitis o mastoiditis— y diseminación hematógena —endocarditis, foco pulmonar, dental, abdominal o cardiopatía cianógena—.
+
+Los abscesos por contigüidad suelen ser únicos y próximos al foco; los hematógenos son con frecuencia múltiples y se sitúan en la unión entre sustancia gris y blanca. A menudo son polimicrobianos. *Streptococcus* y *Staphylococcus* predominan en inmunocompetentes. La inmunodepresión amplía el espectro a Listeria, Nocardia, Rhodococcus, hongos y Toxoplasma.
+
+El contexto geográfico obliga a considerar neurocisticercosis y micobacterias en el diferencial de lesiones expansivas. **Duda A01:** el capítulo agrupa neurocisticercosis bajo la discusión del absceso; no se equipara automáticamente un quiste parasitario con un absceso piógeno. Véase [hongos y parásitos](04_hongos_y_parasitos.md).
+
+*Fuente: cap. 41, pp. 633–634 (PDF 15–16).*
+
+### Foco, localización y microbiología
+
+| Foco | Localización orientativa | Microorganismos de la tabla 1 |
+| --- | --- | --- |
+| Senos paranasales | Frontal | Estreptococos, *S. aureus*, Haemophilus, Bacteroides y enterobacterias |
+| Otitis/mastoiditis | Temporal o cerebelo | Estreptococos, enterobacterias, Bacteroides y Pseudomonas |
+| Endocarditis | A menudo múltiples | Estreptococos, *S. aureus*, enterococos |
+| Infección pulmonar | A menudo múltiples | Estreptococos, Bacteroides, Prevotella, Fusobacterium, enterococos y Nocardia |
+| Infección dental | Múltiples o frontales | Fusobacterium, Prevotella, Bacteroides, Actinomyces y grupo *S. milleri* |
+| Trauma abierto/neurocirugía | Habitualmente único | *S. aureus*, *S. epidermidis*, estreptococos, enterobacterias y Clostridium |
+
+*Fuente: cap. 41, p. 634, tabla 1 (PDF 16).*
 
 ## Puntos de decisión
 
