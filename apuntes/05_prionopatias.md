@@ -4,8 +4,6 @@
 
 **En Urgencias, un deterioro cognitivo rápido exige buscar causas tratables antes de atribuirlo a una prionopatía.** Reconocer el síndrome, revisar el diferencial e integrar RM, EEG y LCR; una prueba aislada no cierra el diagnóstico.
 
-Base clínica: **SEN 2025**. INFURG no desarrolla un circuito de prionopatías. [Fuentes y límites](../FUENTES_Y_COBERTURA.md#jerarquía-de-las-fuentes).
-
 ## Contenido
 
 - [Reconocimiento clínico](#reconocimiento-clínico)
@@ -190,6 +188,6 @@ El IFF se caracteriza por insomnio, disautonomía y deterioro cognitivo y se rel
 
 *Fuente: cap. 44, pp. 680 y 682 (PDF 62 y 64).*
 
-*Fuente clínica de este tema: SEN 2025, cap. 44, Silvia Enríquez Calzada y Alejandro Durán Lozano, pp. 679–686 (PDF 61–68). No se han incorporado otras fuentes ni una actualización externa.*
+*Fuente clínica de este tema: SEN 2025, cap. 44, Silvia Enríquez Calzada y Alejandro Durán Lozano, pp. 679–686 (PDF 61–68).*
 
 [Anterior: hongos y parásitos](04_hongos_y_parasitos.md) · [Volver al índice](../README.md)

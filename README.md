@@ -35,7 +35,7 @@ Elegir el recorrido por la presentación del paciente:
 - El **destino asistencial** tomado de INFURG se identifica expresamente como tal. No se recuperan sus umbrales de gravedad ni sus tiempos de observación como reglas de alta.
 - Si SEN contiene una contradicción, posible errata o pauta incompleta, se señala junto al contenido. Su prioridad entre estas dos fuentes no elimina esas limitaciones.
 
-El [registro de fuentes, cobertura y discrepancias](FUENTES_Y_COBERTURA.md) permite comprobar el origen de cada recorrido y cómo se han resuelto las diferencias. Los cinco temas conservan la cobertura del manual SEN; hongos, parásitos y prionopatías no se recortan para ajustarlos al índice de INFURG.
+El [registro de fuentes, cobertura y discrepancias](FUENTES_Y_COBERTURA.md) permite comprobar el origen de cada recorrido y cómo se han resuelto las diferencias. Los cinco temas conservan la cobertura del manual SEN; hongos, parásitos y prionopatías no se recortan para ajustarlos al índice de INFURG. Este último no desarrolla un circuito específico de prionopatías.
 
 ## Citas y alcance
 

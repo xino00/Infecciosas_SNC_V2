@@ -4,7 +4,7 @@
 
 **Prioridad en Urgencias:** reconocer la sospecha, iniciar tratamiento sin demoras y decidir si la punción lumbar puede realizarse de inmediato o necesita imagen previa. [Decisión TC/PL](#tc-antes-de-punción-lumbar) · [Tratamiento empírico](#qué-tratamiento-iniciar-sin-esperar-resultados) · [Dosis](#dosis-de-antibióticos).
 
-*Base clínica: SEN 2025, cap. 40, pp. 619–631 (PDF 1–13). Organización asistencial: INFURG, caps. 18 y 23, pp. 147–156 y 189–191 (PDF 3–12 y 45–47). [Fuentes y límites](../FUENTES_Y_COBERTURA.md).*
+*Fuente: SEN 2025, cap. 40, pp. 619–631 (PDF 1–13).*
 
 ## Recorrido de Urgencias
 

@@ -2,8 +2,6 @@
 
 [Actuación inicial](00_actuacion_inicial.md) · [Índice general](../README.md) · [Fuentes y dudas del original](../FUENTES_Y_COBERTURA.md)
 
-**Base clínica: SEN 2025.** Secuencia de actuación de INFURG-SEMES 2012. Ante discrepancias prevalece SEN; las pautas incompletas se mantienen identificadas.
-
 ## Actuación inmediata
 
 1. **Sospechar una colección** ante cefalea, focalidad, crisis o descenso de conciencia; si predomina dolor vertebral/radicular con déficit motor, sensitivo o esfinteriano, seguir la [ruta medular](#ruta-ante-un-síndrome-medular). La ausencia de fiebre no la excluye.

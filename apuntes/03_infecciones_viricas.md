@@ -2,8 +2,6 @@
 
 [Actuación inicial](00_actuacion_inicial.md) · [Índice general](../README.md) · [Fuentes y dudas del original](../FUENTES_Y_COBERTURA.md)
 
-**Base clínica: SEN 2025.** Secuencia de actuación de INFURG-SEMES 2012. Ante discrepancias prevalece SEN; las pautas incompletas se mantienen identificadas.
-
 ## Actuación inmediata
 
 1. **Reconocer el síndrome:** meningismo; alteración mental/conductual, conciencia o crisis; o déficit medular/radicular. No atribuir de entrada un síndrome meníngeo a un virus ni exigir exantema.

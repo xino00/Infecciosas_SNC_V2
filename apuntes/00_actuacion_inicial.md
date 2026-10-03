@@ -4,7 +4,7 @@
 
 **El primer objetivo es reconocer una infección que requiere tratamiento urgente, localizarla y decidir qué pruebas pueden hacerse sin retrasarlo.** La ausencia de fiebre, rigidez o de la tríada clásica no descarta meningitis; un cambio de conducta, una crisis o un déficit focal puede ser la presentación de una encefalitis o una colección.
 
-*Fuente clínica prioritaria: SEN 2025, caps. 40–42, pp. 619–624, 634–639 y 647–655 (PDF 1–6, 16–21 y 29–37). Estructura asistencial: INFURG, caps. 18–23. Las discrepancias documentales se consultan en el [registro](../FUENTES_Y_COBERTURA.md).*
+*Fuente: SEN 2025, caps. 40–42, pp. 619–624, 634–639 y 647–655 (PDF 1–6, 16–21 y 29–37).*
 
 ## Elegir el recorrido
 

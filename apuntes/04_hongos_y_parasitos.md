@@ -4,8 +4,6 @@
 
 Ante una posible micosis o parasitosis del SNC, localizar el síndrome, reconocer la gravedad y orientar las pruebas por inmunidad y exposición. La primera decisión puede ser controlar la presión intracraneal o valorar cirugía antes de administrar un tratamiento específico.
 
-Base clínica: **SEN 2025**. [Fuentes, prioridad y límites](../FUENTES_Y_COBERTURA.md#jerarquía-de-las-fuentes).
-
 ## Contenido
 
 - [Orientación inicial](#orientación-inicial)
@@ -415,6 +413,6 @@ Definición empleada: **>10 eosinófilos/mm³ o >10 % de leucocitos en LCR**. Ta
 
 *Fuente: cap. 43, pp. 659–674 (PDF 41–56).*
 
-*Fuente clínica de este tema: SEN 2025, cap. 43, Alberto Sáez Marín, Erik Stiauren Fernández e Íñigo Corral Corral, pp. 659–677 (PDF 41–59). INFURG orienta la secuencia general; no se han incorporado otras fuentes ni una actualización externa.*
+*Fuente clínica de este tema: SEN 2025, cap. 43, Alberto Sáez Marín, Erik Stiauren Fernández e Íñigo Corral Corral, pp. 659–677 (PDF 41–59).*
 
 [Anterior: víricas](03_infecciones_viricas.md) · [Índice](../README.md) · [Siguiente: prionopatías](05_prionopatias.md)
