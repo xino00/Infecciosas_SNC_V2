@@ -1,10 +1,12 @@
-# Infecciones del sistema nervioso: apuntes prácticos
+# Guía de Urgencias: infecciones del sistema nervioso central
 
-Apuntes en español para reconocer el síndrome, escoger las pruebas y tomar decisiones de tratamiento y vigilancia. **INFURG-SEMES 2012 aporta el esqueleto de actuación; SEN 2025 tiene prioridad para el contenido clínico.** Ante discrepancias entre ambos documentos, estos apuntes siguen SEN.
+Guía en español organizada por decisiones: **cuándo sospechar una infección, qué hacer primero, cuándo obtener imagen o LCR, qué tratamiento iniciar y cómo reevaluar**. La base clínica es **SEN 2025**, con el esqueleto de actuación de **INFURG-SEMES 2012**. Ante discrepancias, prevalece SEN.
 
 ## Empezar por el problema del paciente
 
-**[Actuación inicial: del síndrome a la decisión](apuntes/00_actuacion_inicial.md)** reúne los recorridos y enlaza con su desarrollo:
+**[Empezar la valoración en Urgencias](apuntes/00_actuacion_inicial.md)** · **[TC antes de punción lumbar](apuntes/00_actuacion_inicial.md#tc-antes-de-punción-lumbar)**
+
+Elegir el recorrido por la presentación del paciente:
 
 | Presentación | Recorrido |
 | --- | --- |
@@ -16,7 +18,7 @@ Apuntes en español para reconocer el síndrome, escoger las pruebas y tomar dec
 | Curso subagudo/crónico, inmunodepresión o exposición relevante | [Ampliar la etiología](apuntes/00_actuacion_inicial.md#curso-subagudo-crónico-o-huésped-especial) |
 | Deterioro cognitivo rápidamente progresivo | [Prionopatías y alternativas tratables](apuntes/05_prionopatias.md#reconocimiento-clínico) |
 
-## Los cinco temas completos
+## Desarrollo por síndrome y etiología
 
 | Tema | Contenido | Fuente clínica SEN: capítulo · páginas impresas |
 | --- | --- | --- |
@@ -43,4 +45,4 @@ Se prioriza el adulto y se conservan las particularidades pediátricas, del emba
 
 Se han leído íntegramente ambos PDF. Los originales permanecen locales; el repositorio publica solo Markdown. «SEN 2025» e «INFURG-SEMES 2012» identifican los archivos aportados, que no incluyen portadas o créditos editoriales generales completos.
 
-Elaboración inicial: **2 de octubre de 2026**. Reorganización con INFURG: **3 de octubre de 2026**. La revisión comprueba **fidelidad documental y coherencia entre estas fuentes**; no es una actualización clínica con otras guías. Las bibliografías citadas por los autores no se han consultado directamente.
+Elaboración inicial: **2 de octubre de 2026**. Reorganización y redacción como guía de Urgencias: **3 de octubre de 2026**. La revisión comprueba **fidelidad documental y coherencia entre estas fuentes**; no es una actualización clínica con otras guías. Las bibliografías citadas por los autores no se han consultado directamente.

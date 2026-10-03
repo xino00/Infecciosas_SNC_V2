@@ -63,7 +63,7 @@ INFURG no sustituye el contenido de los cinco capítulos SEN. Aporta una **secue
 | 21. Infecciones parameníngeas, pp. 171–178 / PDF 27–34 | Diferenciar colecciones intracraneales y espinales; reconocer complicación vascular | [Colecciones intracraneales](apuntes/02_abscesos_y_empiemas.md#empiema-subdural-y-absceso-epidural-intracraneales) y rutas espinales. SEN no desarrolla un protocolo completo de anticoagulación de tromboflebitis séptica; no se incorpora el de INFURG |
 | 22. Mielitis e infecciones medulares, pp. 181–186 / PDF 37–42 | Síndrome medular → imagen → compresivo/no compresivo → etiología | [Ruta medular](apuntes/00_actuacion_inicial.md#síndrome-medular-o-radicular); conecta colecciones, mielitis víricas, bacterianas y parasitarias sin pauta empírica universal |
 | Figura 1, p. 184 / PDF 40 | Imagen antes de decidir la vía compresiva o no compresiva | Revisión visual: el gráfico enlaza «no inflamatoria» con mielitis transversa, en tensión con el texto. No se adopta esa flecha ni la PL «obligada» como regla |
-| 23. Derivaciones de LCR, pp. 187–191 / PDF 43–47 | Contexto del dispositivo, infección/disfunción, valoración hospitalaria/neuroquirúrgica y control del foco | [Derivaciones](apuntes/00_actuacion_inicial.md#derivación-de-lcr-o-neurocirugía) y [nosocomial](apuntes/01_infecciones_bacterianas.md#particularidades-de-la-meningitis-nosocomial); no se reconstruye un protocolo de punción del reservorio o recambio ausente en SEN |
+| 23. Derivaciones de LCR, pp. 187–191 / PDF 43–47 | Contexto del dispositivo, infección/disfunción, valoración hospitalaria/neuroquirúrgica y control del foco | [Derivaciones](apuntes/00_actuacion_inicial.md#derivación-de-lcr-o-neurocirugía) y [nosocomial](apuntes/01_infecciones_bacterianas.md#meningitis-tras-neurocirugía-o-con-derivación-de-lcr); no se reconstruye un protocolo de punción del reservorio o recambio ausente en SEN |
 | Destino asistencial, pp. 155, 163, 170, 178, 186 y 191 / PDF 11, 19, 26, 34, 42 y 47 | Ingreso y nivel de vigilancia por síndrome/gravedad | Identificado como organización INFURG en cada recorrido; sin sus cortes de Glasgow, plazos de observación o reglas temporales de alta |
 
 Los **22 cuadros numerados** de INFURG se distribuyen en meningitis (10), absceso (3), parameníngeas (2), mielitis (5) y derivaciones (2). Se han usado para reconocer cómo agrupa etiologías, riesgo, pruebas y tratamiento, **sin reproducir sus tablas posológicas**. Los dos algoritmos anteriores se han interpretado visualmente; las tablas terapéuticas implicadas en las discrepancias se han cotejado también con la imagen del PDF.
@@ -72,9 +72,9 @@ Hongos y parásitos conservan su desarrollo SEN, con una entrada por síndrome y
 
 ## Criterio de síntesis
 
-Los apuntes reorganizan el texto por reconocimiento, diagnóstico, decisiones terapéuticas y seguimiento. La cobertura se refiere a **todos los apartados clínicos**, no a una transcripción de cada frase, referencia o dato epidemiológico histórico. Se conservan los elementos epidemiológicos y fisiopatológicos que explican el riesgo, la sospecha o la conducta. Se han resumido las enumeraciones repetidas y los antecedentes históricos sin convertirlos en recomendaciones nuevas.
+La guía organiza el texto por sospecha, actuación inmediata, diagnóstico, tratamiento y reevaluación. Los encabezados y tablas responden a decisiones clínicas; los números de tablas y figuras del PDF se reservan a las citas y a este registro. La cobertura se refiere a **todos los apartados clínicos**, no a una transcripción de cada frase, referencia o dato epidemiológico histórico. Se conservan los elementos epidemiológicos y fisiopatológicos que explican el riesgo, la sospecha o la conducta. Se han resumido las enumeraciones repetidas y los antecedentes históricos sin convertirlos en recomendaciones nuevas.
 
-Cada bloque clínico termina con capítulo, página impresa y página del PDF. En las cinco notas, las citas «Fuente: cap.» corresponden a SEN; INFURG se identifica por su nombre en cada aportación. En la ruta transversal se distingue siempre la fuente de estructura de la fuente clínica. Las figuras se interpretan en palabras; no se han incrustado capturas. Las tablas se han reorganizado sin completar dosis, vías, intervalos, duraciones o criterios que no desarrolla la fuente. Las pautas pediátricas, del embarazo y de inmunodepresión se mantienen con su población identificada.
+Cada bloque clínico termina con capítulo, página impresa y página del PDF. En las cinco notas, las citas «Fuente: cap.» corresponden a SEN; INFURG se identifica por su nombre en cada aportación. En la ruta transversal se distingue siempre la fuente de estructura de la fuente clínica. Las figuras se interpretan en palabras; no se han incrustado capturas. Las tablas se han reorganizado sin completar dosis, vías, intervalos, duraciones o criterios que no desarrolla la fuente. Para facilitar el uso del esquema comunitario adulto se explicitan dos conversiones aritméticas exactas: ceftriaxona 4 g/día repartidos cada 12 h = 2 g cada 12 h; cefotaxima 12 g/día cada 4 h = 2 g cada 4 h. Se mantiene el total original en la tabla de dosis. No se fija por analogía una pauta individual de ampicilina o vancomicina a partir de sus rangos. Las pautas pediátricas, del embarazo y de inmunodepresión se mantienen con su población identificada.
 
 ## Cobertura de los apartados clínicos de SEN
 
@@ -82,8 +82,8 @@ Cada bloque clínico termina con capítulo, página impresa y página del PDF. E
 
 | Apartado original | Impresa / PDF | Ubicación de la síntesis |
 | --- | --- | --- |
-| 1.1–1.4. Introducción, epidemiología, fisiopatología y clínica de meningitis aguda | 619–622 / 1–4 | [Meningitis aguda](apuntes/01_infecciones_bacterianas.md#meningitis-aguda) y [etiología por contexto](apuntes/01_infecciones_bacterianas.md#etiología-orientada-por-contexto) |
-| 1.5. Diagnóstico | 622 / 4 | [Diagnóstico y LCR](apuntes/01_infecciones_bacterianas.md#diagnóstico-y-lcr) |
+| 1.1–1.4. Introducción, epidemiología, fisiopatología y clínica de meningitis aguda | 619–622 / 1–4 | [Meningitis aguda](apuntes/01_infecciones_bacterianas.md#cuándo-sospechar-meningitis-bacteriana) y [etiología por contexto](apuntes/01_infecciones_bacterianas.md#etiología-orientada-por-contexto) |
+| 1.5. Diagnóstico | 622 / 4 | [Diagnóstico y LCR](apuntes/01_infecciones_bacterianas.md#cómo-abordar-la-sospecha) |
 | 1.6. Complicaciones y factores pronósticos | 622–623 / 4–5 | [Complicaciones y pronóstico](apuntes/01_infecciones_bacterianas.md#complicaciones-y-pronóstico) |
 | 1.7. Diagnóstico diferencial | 623 / 5 | [Diferencial](apuntes/01_infecciones_bacterianas.md#diagnóstico-diferencial) |
 | 1.8.1–1.8.3. Soporte, antibióticos y glucocorticoides | 623–625 / 5–7 | [Tratamiento de la meningitis aguda](apuntes/01_infecciones_bacterianas.md#tratamiento-de-la-meningitis-aguda) |
@@ -115,13 +115,13 @@ Cada bloque clínico termina con capítulo, página impresa y página del PDF. E
 | 1–2. Introducción y epidemiología | 643–645 / 25–27 | [Epidemiología](apuntes/03_infecciones_viricas.md#epidemiología-y-mecanismos) y [Virus y exposiciones](apuntes/03_infecciones_viricas.md#virus-y-exposiciones) |
 | 3.1. Mecanismos de entrada y daño | 645–646 / 27–28 | [Mecanismos](apuntes/03_infecciones_viricas.md#cómo-alcanza-el-snc) y [SARS-CoV-2](apuntes/03_infecciones_viricas.md#sars-cov-2-y-síndromes-relacionados) |
 | 3.2. Infecciones congénitas | 646–647 / 28–29 | [Infecciones congénitas](apuntes/03_infecciones_viricas.md#infecciones-congénitas) |
-| 4.1. Manifestaciones en inmunocompetentes | 647–649 / 29–31 | [Síndromes](apuntes/03_infecciones_viricas.md#del-síndrome-a-la-sospecha) y [Manifestaciones clínicas](apuntes/03_infecciones_viricas.md#manifestaciones-clínicas) |
+| 4.1. Manifestaciones en inmunocompetentes | 647–649 / 29–31 | [Síndromes](apuntes/03_infecciones_viricas.md#cuándo-sospechar-meningitis-o-encefalitis) y [Manifestaciones clínicas](apuntes/03_infecciones_viricas.md#manifestaciones-clínicas) |
 | 4.2. Inmunocomprometidos | 649–651 / 31–33 | [Inmunodepresión y VIH](apuntes/03_infecciones_viricas.md#inmunodepresión-y-vih) |
 | 4.2.1. Infecciones crónicas | 650 / 32 | [LMP y otras infecciones crónicas](apuntes/03_infecciones_viricas.md#lmp-y-otras-infecciones-crónicas) |
 | 4.2.2. Infección por virus JC | 650–651 / 32–33 | [LMP](apuntes/03_infecciones_viricas.md#leucoencefalopatía-multifocal-progresiva) |
 | 5.1. Laboratorio y LCR | 651–652 / 33–34 | [Diagnóstico](apuntes/03_infecciones_viricas.md#diagnóstico) |
 | 5.2. Neuroimagen y EEG | 652–653 / 34–35 | [RM y EEG](apuntes/03_infecciones_viricas.md#rm-y-eeg) |
-| 6. Diagnóstico | 653–654 / 35–36 | [Síndrome de sospecha](apuntes/03_infecciones_viricas.md#del-síndrome-a-la-sospecha) e [integración diagnóstica](apuntes/03_infecciones_viricas.md#integración-y-diferencial) |
+| 6. Diagnóstico | 653–654 / 35–36 | [Síndrome de sospecha](apuntes/03_infecciones_viricas.md#cuándo-sospechar-meningitis-o-encefalitis) e [integración diagnóstica](apuntes/03_infecciones_viricas.md#integración-y-diferencial) |
 | 7. Diagnóstico diferencial | 654 / 36 | [Integración y diferencial](apuntes/03_infecciones_viricas.md#integración-y-diferencial) |
 | 8. Tratamiento y terapias adyuvantes | 654–655 / 36–37 | [Tratamiento](apuntes/03_infecciones_viricas.md#tratamiento) |
 | 9. Puntos clave | 655 / 37 | [Seguimiento y puntos clave](apuntes/03_infecciones_viricas.md#seguimiento-y-puntos-clave) |
@@ -154,7 +154,7 @@ Cada bloque clínico termina con capítulo, página impresa y página del PDF. E
 | 1–3. Introducción, epidemiología y etiología/fisiopatología | 679–680 / 61–62 | [Concepto y mecanismos](apuntes/05_prionopatias.md#concepto-y-mecanismos) |
 | 4. Clínica y variantes | 680–681 / 62–63 | [Reconocimiento clínico](apuntes/05_prionopatias.md#reconocimiento-clínico) |
 | 5. Pruebas complementarias | 681–683 / 63–65 | [Estudio inicial](apuntes/05_prionopatias.md#estudio-de-una-demencia-rápidamente-progresiva) y [Biomarcadores](apuntes/05_prionopatias.md#biomarcadores) |
-| 6. Diagnóstico y esquema | 683–684 / 65–66 | [Esquema diagnóstico del manual](apuntes/05_prionopatias.md#esquema-diagnóstico-del-manual) |
+| 6. Diagnóstico y esquema | 683–684 / 65–66 | [Certeza diagnóstica y límites](apuntes/05_prionopatias.md#certeza-diagnóstica-y-límites) |
 | 7. Diagnóstico diferencial | 683–684 / 65–66 | [Diagnóstico diferencial](apuntes/05_prionopatias.md#diagnóstico-diferencial) |
 | 8. Tratamiento, precauciones y comunicación | 684 y 686 / 66 y 68 | [Tratamiento y precauciones](apuntes/05_prionopatias.md#tratamiento-y-precauciones) |
 | 9. Puntos clave | 686 / 68 | [Puntos de decisión](apuntes/05_prionopatias.md#puntos-de-decisión) |
@@ -219,13 +219,13 @@ Los protocolos de tromboflebitis séptica intracraneal y de mielitis transversa 
 
 | ID | Impresa / PDF | Problema y tratamiento editorial |
 | --- | --- | --- |
-| B01 | 621 y 630 / 3 y 12 | [Tríada y lista de cuatro síntomas](apuntes/01_infecciones_bacterianas.md#reconocimiento-y-prioridad): no convertir el 95 % en regla de exclusión |
-| B02 | 622 / 4 | [Neuroimagen y seguridad de PL](apuntes/01_infecciones_bacterianas.md#secuencia-inicial): la lista mezcla indicaciones de imagen con contraindicaciones; faltan umbrales |
+| B01 | 621 y 630 / 3 y 12 | [Tríada y lista de cuatro síntomas](apuntes/01_infecciones_bacterianas.md#reconocimiento-y-prioridad): el texto atribuye el 95 % a «dos de ellos» tras una tríada, mientras los puntos clave enumeran cuatro manifestaciones; no convertirlo en regla de exclusión |
+| B02 | 622 / 4 | [Neuroimagen y seguridad de PL](apuntes/01_infecciones_bacterianas.md#tc-antes-de-punción-lumbar): SEN recomienda neuroimagen previa en general, pero la hace obligatoria ante riesgo de lesión/herniación; la lista mezcla indicaciones de imagen con contraindicaciones de PL y no aporta umbrales. Se separan imagen previa, PL inmediata si segura y PL aplazada por seguridad |
 | B03 | 622 / 4 | [Rentabilidad microbiológica tras antibióticos](apuntes/01_infecciones_bacterianas.md#interpretación-del-líquido): afirmaciones discordantes en la misma página |
-| B04 | 623 / 5 | [Tratamiento dirigido](apuntes/01_infecciones_bacterianas.md#tratamiento-dirigido-que-recoge-la-tabla-3): combinación/alternativa de TMP-SMX en Listeria poco clara; H. influenzae sin desarrollo de sensibilidad |
-| B05 | 624 / 6 | [Tabla de dosis](apuntes/01_infecciones_bacterianas.md#dosis-de-la-tabla-4): nota farmacológica posiblemente errónea; se mantienen cifras de cloxacilina y cefepima pediátrica, y se separan totales diarios de dosis por administración |
+| B04 | 623 / 5 | [Tratamiento dirigido](apuntes/01_infecciones_bacterianas.md#ajustar-el-antibiótico-al-microorganismo): combinación/alternativa de TMP-SMX en Listeria poco clara; H. influenzae sin desarrollo de sensibilidad |
+| B05 | 624 / 6 | [Tabla de dosis](apuntes/01_infecciones_bacterianas.md#dosis-de-antibióticos): la nota farmacológica excluye a aminoglucósidos y linezolid del conjunto que llama bactericida; posible errata, no adoptada como regla. Se mantienen cifras de cloxacilina y cefepima pediátrica, y se separan totales diarios de dosis por administración |
 | B06 | 625 / 7 | [Profilaxis](apuntes/01_infecciones_bacterianas.md#contactos): límites exactos de edad y trimestre del embarazo no resueltos |
-| B07 | 626 / 8 | [Vacunación](apuntes/01_infecciones_bacterianas.md#vacunación-descrita-en-el-manual): duplicidad aparente de dosis/refuerzo de 4CMenB; calendario no actualizado |
+| B07 | 626 / 8 | [Vacunación](apuntes/01_infecciones_bacterianas.md#vacunación-y-prevención): duplicidad aparente de dosis/refuerzo de 4CMenB; calendario no actualizado |
 | B08 | 627 / 9 | [Brucelosis](apuntes/01_infecciones_bacterianas.md#neurobrucelosis): discordancia entre «leve-moderada» y proteínas de 400 mg/dL |
 | B09 | 628 / 10 | [Neurosífilis](apuntes/01_infecciones_bacterianas.md#neurosífilis): denominación temporal confusa, resolución espontánea descrita y ausencia de intervalo para penicilina procaína |
 | B10 | 630 / 12 | [Leptospirosis](apuntes/01_infecciones_bacterianas.md#leptospirosis): vía de cefotaxima impresa como «in»; no se interpreta como una vía inequívoca |
@@ -233,13 +233,13 @@ Los protocolos de tromboflebitis séptica intracraneal y de mielitis transversa 
 | A02 | 637 / 19 | [Inmunodepresión y hongos](apuntes/02_abscesos_y_empiemas.md#esquemas-empíricos-según-el-foco): la mención genérica de voriconazol no se extiende a cualquier micosis |
 | A03 | 637 / 19 | [Origen otógeno](apuntes/02_abscesos_y_empiemas.md#esquemas-empíricos-según-el-foco): Pseudomonas figura entre los agentes sin adaptación específica de la pauta |
 | V01 | 648 / 30 | [Virus del Nilo occidental](apuntes/03_infecciones_viricas.md#síndromes-y-agentes-concretos): porcentaje impreso como «-2 %», sin reconstruirlo |
-| V02 | 651 / 33 | [Inmunosupresores](apuntes/03_infecciones_viricas.md#tratamientos-asociados-a-riesgo-vírico-en-la-tabla-11): clasificación de everolimus posiblemente errónea |
+| V02 | 651 / 33 | [Inmunosupresores](apuntes/03_infecciones_viricas.md#inmunosupresores-y-riesgo-vírico): clasificación de everolimus posiblemente errónea |
 | V03 | 647 / 29 | [Infección congénita](apuntes/03_infecciones_viricas.md#infecciones-congénitas): «tercer trimestre» para CMV/rubéola no distingue transmisión de daño fetal |
-| V04 | 654 / 36 | [Antivirales](apuntes/03_infecciones_viricas.md#pautas-tal-como-las-desarrolla-el-manual): alternancia de meningitis, encefalitis y meningoencefalitis; no fusionar todas las duraciones |
-| V05 | 654 / 36 | [CMV](apuntes/03_infecciones_viricas.md#pautas-tal-como-las-desarrolla-el-manual): foscarnet y cidofovir sin intervalo completo |
-| H01 | 661 / 43 | [Criptococo](apuntes/04_hongos_y_parasitos.md#tratamiento-por-fases-en-pacientes-con-vih): numeración bibliográfica discordante en la tabla; se cita la tabla del manual |
+| V04 | 654 / 36 | [Antivirales](apuntes/03_infecciones_viricas.md#tratamiento-antiviral-según-el-síndrome): alternancia de meningitis, encefalitis y meningoencefalitis; no fusionar todas las duraciones |
+| V05 | 654 / 36 | [CMV](apuntes/03_infecciones_viricas.md#tratamiento-antiviral-según-el-síndrome): foscarnet y cidofovir sin intervalo completo |
+| H01 | 661 / 43 | [Criptococo](apuntes/04_hongos_y_parasitos.md#tratamiento-por-fases-en-pacientes-con-vih): el encabezado remite a la referencia 22, mientras el texto cita la guía OMS de la referencia 26; se atribuye la pauta a SEN sin verificación directa de esa guía |
 | H02 | 659 y 665–666 / 41 y 47–48 | [Otras micosis](apuntes/04_hongos_y_parasitos.md#otras-micosis): agrupación de dematiáceos junto a dimórficos no adoptada como equivalencia taxonómica |
-| H03 | 667 / 49 | [Malaria](apuntes/04_hongos_y_parasitos.md#tratamiento-del-fragmento): artesunato sin dosis ponderal ni frecuencia después de las 24 h |
+| H03 | 667 / 49 | [Malaria](apuntes/04_hongos_y_parasitos.md#tratar-la-malaria-y-vigilar-complicaciones): artesunato sin dosis ponderal ni frecuencia después de las 24 h |
 | H04 | 668 / 50 | [Toxoplasma](apuntes/04_hongos_y_parasitos.md#tratamiento-de-la-toxoplasmosis): duración de 3–6 semanas y mantenimiento sin todas las condiciones de retirada; faltan dosis |
 | H05 | 669 / 51 | [Chagas](apuntes/04_hongos_y_parasitos.md#americana): benznidazol «y» nifurtimox sin aclarar combinación o alternativas |
 | H06 | 673 / 55 | [Esquistosoma](apuntes/04_hongos_y_parasitos.md#confirmación-diferencial-y-tratamiento): praziquantel 60 mg/kg/día seguido de «cada 8 h»; no presentarlo como 60 mg/kg por toma |
@@ -248,7 +248,7 @@ Los protocolos de tromboflebitis séptica intracraneal y de mielitis transversa 
 | P01 | 682 / 64 | [Genética](apuntes/05_prionopatias.md#subtipos-y-genética): asociación textual de D178N y codón 129 confusa |
 | P02 | 682 / 64 | [RT-QuIC](apuntes/05_prionopatias.md#lcr-y-rt-quic): sensibilidad/especificidad agregadas y condiciones preanalíticas incompletas |
 | P03 | 682–685 / 64–67 | [Biomarcadores](apuntes/05_prionopatias.md#lcr-y-rt-quic): texto y figura difieren en el desarrollo clínico de algunas muestras; no intercambiar matrices |
-| P04 | 683–684 / 65–66 | [Esquema diagnóstico](apuntes/05_prionopatias.md#esquema-diagnóstico-del-manual): referencia CDC 2018 frente a pie OMS 1998; requisitos clínicos y conjunción en RM conservados como lectura del esquema, sin validarlos como clasificador |
+| P04 | 683–684 / 65–66 | [Esquema diagnóstico](apuntes/05_prionopatias.md#certeza-diagnóstica-y-límites): referencia CDC 2018 frente a pie OMS 1998; requisitos clínicos y conjunción en RM conservados como lectura del esquema, sin validarlos como clasificador |
 
 También se conservan, junto a su contexto, diferencias de énfasis que no se han convertido en una pauta única: vancomicina empírica según resistencia local frente a uso general en el adulto; suspensión o continuación de dexametasona según agente; excepciones a aspiración diagnóstica frente a criterios de manejo médico del absceso; serología de Lyme dirigida frente al listado amplio del estudio de demencia rápidamente progresiva.
 
@@ -258,7 +258,7 @@ También se conservan, junto a su contexto, diferencias de énfasis que no se ha
 - Segunda pasada de cada dosis incluida: **fármaco, indicación, población, unidad, total diario o cantidad por administración, intervalo, vía y duración**. Cuando un campo falta o es ambiguo se indica; no se completa por memoria.
 - Revisión de cifras, unidades y tablas frente al original, y coherencia entre las cinco notas. No se trasladan dosis de meningitis a abscesos ni pautas de una formulación de anfotericina a otra.
 - Comprobación de correspondencia de páginas, estructura de tablas, destinos de enlaces e índices de Markdown.
-- En la reorganización se comparan las tablas, líneas numéricas, bloques clínicos y avisos de SEN con la versión previa, para detectar pérdidas o cambios involuntarios. Las adiciones se revisan contra su fuente y no introducen dosis de INFURG.
+- En la reorganización y redacción clínica se comparan cifras, pautas, condiciones y avisos de SEN con la versión previa, para detectar pérdidas o cambios involuntarios. Revisión específica de la bifurcación TC/PL, del empírico adulto y de las conversiones de dosis por administración. Las adiciones se revisan contra su fuente y no introducen dosis de INFURG.
 - Publicación limitada a `README.md`, este registro, `apuntes/00_actuacion_inicial.md` y las cinco notas. Los dos PDF y los materiales temporales de extracción/revisión quedan fuera del repositorio remoto.
 
 La revisión es de **fidelidad documental**, realizada durante la elaboración de los apuntes; no equivale a una revisión clínica independiente, una actualización terapéutica ni una resolución de las dudas enumeradas. Las recomendaciones sobre vacunas, fármacos, prevención o declaración de enfermedades mantienen el contexto del manual.
